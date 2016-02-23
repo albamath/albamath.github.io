@@ -2,7 +2,7 @@
 layout: post
 title:  "alba~math migre de nouveau!"
 lang: fr
-date:   2016-02-23 05:06:23 +0100
+date: 2016-02-23 05:06:23 +0100
 tags: non-math
 ---
 
