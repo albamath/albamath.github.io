@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: alba~math
+#, un recoin mathématique
+email: contact@albamath.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ce site web contient un ensemble de contributions par Alba Marina Málaga Sabogal. 
+  Vous retrouverez ici des nouvelles sur ma recherche, mes efforts de vulgarisation scientifique, et en général sur divers aspects de la vie qui peuvent être discutés mathématiquement.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://albamath.com" # the base hostname & protocol for your site
+github_username:  AlbaMalaga
+
+# Build settings
+markdown: kramdown
+permalink: pretty
