@@ -1,14 +1,11 @@
 ---
 layout: page
-title:  À propos
-permalink: /a-propos/
-name: about
+title: À propos
+link: about
 lang: fr
-categories: Information
-tags: non-math
 ---
 
-Je m'appelle Alba Marina Málaga Sabogal. J'ai créé cette page autour des mathématiques pour partager les connaissances, les idées et les ressentis que j'ai accumulé sur cette noble science au fil des année. 
+Je m'appelle Alba Marina Málaga Sabogal. J'ai créé cette page autour des mathématiques pour partager les connaissances, les idées et les ressentis que j'ai accumulé sur cette noble science au fil des années. 
 
 Les maths, c'est mon travail: je fais de la recherche en systèmes dynamiques, je donne aussi des cours à la fac. Vous pouvez jeter un oeil [à ma page perso au laboratoire de mathématiques d'Orsay](http://www.math.u-psud.fr/~malaga).
 
