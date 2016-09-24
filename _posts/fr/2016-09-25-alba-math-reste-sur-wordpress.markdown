@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "alba~math reste sur Wordpress"
+title: alba~math reste sur Wordpress
 link: albamathsurwp
-date: 2016-02-23 05:06:23 +0100
+date: '2016-09-25 01:48:23 +0100'
 categories: blog setup
 lang: fr
+published: true
 ---
 
 Eh bien, pour l'instant, alba~math restera sur Wordpress.
