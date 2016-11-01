@@ -8,7 +8,7 @@ lang: en
 published: true
 ---
 
-For the moment, alba~math stays on Wordpress.
+For the moment, [alba~math](http://albamath.com) stays on Wordpress.
 The two main reasons are: 
 
   *  I lack time and wordpress is easier thus less time-consuming to maintain;
