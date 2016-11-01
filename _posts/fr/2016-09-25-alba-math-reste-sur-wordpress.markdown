@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-Eh bien, pour l'instant, alba~math restera sur Wordpress.
+Eh bien, pour l'instant, [alba~math](http://albamath.com) restera sur Wordpress.
 Les deux raisons les plus importantes pour ce faire sont : 
 
   *  je manque de temps et Wordpress est plus facile, donc plus rapide à gérer;
