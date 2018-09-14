@@ -6,7 +6,7 @@ link: about
 lang: en
 ---
 
-My name is Alba Marina Málaga Sabogal. I created this mathematical website the knowledge, ideas and feelings that I have gathered along the years. 
+My name is Alba Marina Málaga Sabogal. I created this mathematical website to share the knowledge, ideas and feelings that I have gathered along the years. 
 
 Math is my job: I am a researcher in Dynamical Systems and I also teach at collège. You can look at my [plain html webpage at Orsay laboratory](http://www.math.u-psud.fr/~malaga).
 
