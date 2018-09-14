@@ -1,0 +1,12 @@
+---
+layout: post
+title: Bonne année 2018
+link: bonneannee2018
+date: 2017-12-31 23:59:42.000000000 +01:00
+categories:
+- Société
+tags: []
+author: 'Alba Marina MÁLAGA SABOGAL'
+lang: fr
+published: true
+---
