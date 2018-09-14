@@ -18,7 +18,12 @@ index:
   fr: accueil.html
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://albamath.com" # the base hostname & protocol for your site
-github_username:  AMSab
+twitter_username: alba_math
+github_username:  albamath
 
 # Build settings
 markdown: kramdown
+
+# Permalink structure (by default, it includes the category in the output)
+permalink: /:year/:month/:day/:title:output_ext
+
