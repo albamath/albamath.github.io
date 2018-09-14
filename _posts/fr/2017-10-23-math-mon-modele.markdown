@@ -28,9 +28,7 @@ Voulez-vous voir l'affiche avec ma tête ? Mmm.... même si je tiens ce
 blog depuis quelques années déjà, je n'y avais jamais publié de
 photographie de moi même. Bam! Ça vient de changer.
 
-\[caption id="attachment\_921" align="aligncenter"
-width="750"\]<img src="{{ site.baseurl }}/assets/commeon_11.jpg" alt="Alba Málaga à côté du modèle 3D d&#39;une cyclide." class="alignnone size-full wp-image-921" width="750" height="500" />
-Affiche pour la campagne "Math mon modèle".\[/caption\]
+![Alba Málaga à côté du modèle 3D d'une cyclide]({{ site.baseurl }}/assets/commeon_11.jpg 'Affiche pour la campagne "Math mon modèle".')
 
 He, he, pour ceux qui ne m'ont pas vue depuis longtemps, voire jamais, cette image revèle en même temps quelques nouvelles :
 
