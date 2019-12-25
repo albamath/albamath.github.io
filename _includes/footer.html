@@ -29,7 +29,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description[page.lang] | default site.description[en]}}</p>
+        <p>{{ site.description[{{ page.lang | default: site.lang }}] | default site.description[en]}}</p>
       </div>
     </div>
 
