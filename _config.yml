@@ -13,7 +13,7 @@ url: "http://albamath.com" # the base hostname & protocol for the site, e.g. htt
 twitter_username: alba_math
 github_username:  albamath
 disqus:
-  shortname: disqus_3Sof593PnY
+  shortname: albamath
 theme: minima
 minima:
   skin: solarized-dark
