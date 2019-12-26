@@ -8,7 +8,7 @@ published: true
 
 Je m'appelle Alba Marina Málaga Sabogal. J'ai créé [cette page](http://albamath.com) autour des mathématiques pour partager les connaissances, les idées et les ressentis que j'ai accumulé sur cette noble science au fil des années. 
 
-Les maths, c'est mon travail: je fais de la recherche en systèmes dynamiques, je donne aussi des cours à la fac. Vous pouvez jeter un oeil [à ma page perso au laboratoire de mathématiques d'Orsay](http://www.math.u-psud.fr/~malaga).
+Les maths, c'est mon travail: je fais de la recherche en systèmes dynamiques, il m'arrive aussi de donner des cours à la fac. Vous pouvez jeter un oeil [à ma page perso au laboratoire de mathématiques d'Orsay](http://www.math.u-psud.fr/~malaga).
 
 Les maths, c'est une demarche d'observation quotidienne: dans la vie il y a tellement de choses qui se prêtent à une representation symbolique. J'adore impressioner ma famille avec des petits calculs ou des déductions.
 

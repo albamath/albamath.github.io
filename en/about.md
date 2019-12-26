@@ -8,7 +8,7 @@ published: true
 
 My name is Alba Marina Málaga Sabogal. I created this mathematical website to share the knowledge, ideas and feelings that I have gathered along the years. 
 
-Math is my job: I am a researcher in Dynamical Systems and I also teach at collège. You can look at my [plain html webpage at Orsay laboratory](http://www.math.u-psud.fr/~malaga).
+Math is my job: I am a researcher in Dynamical Systems and I also sometimes teach at college. You can look at my [plain html webpage at Orsay laboratory](http://www.math.u-psud.fr/~malaga).
 
 Math is an everyday observation attitude: at life there are so many things that are well represented symbolically. I like to impress family and friends with little computations or deductive reasoning.
 
