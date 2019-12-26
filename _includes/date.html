@@ -1,0 +1,30 @@
+{%- capture hide -%}
+{%- capture day -%}
+{%- assign d = include.date | date: "%-d" -%}
+{%- if page.lang == 'en' -%}
+    {%- case day -%}
+        {%- when '1' or '21' or '31' -%} {{- d -}}<sup>st</sup>
+        {%- when '2' or '22' -%} {{- d -}}<sup>nd</sup>
+        {%- when '3' or '23' -%} {{- d -}}<sup>rd</sup>
+        {%- else -%} {{- d -}}<sup>th</sup>
+    {%- endcase -%}
+{%- elsif page.lang == 'es' -%}
+{{ d }} de
+{%- elsif page.lang == 'fr' -%}
+    {%- if d == "1" -%}
+        {{- d -}}<sup>er</sup>
+    {%- else -%} {{- d -}}
+    {%- endif -%}
+{%- else -%}
+{{- d -}}
+{%- endif -%} 
+{%- endcapture -%}
+{%- capture month -%}
+{%- assign m = include.date | date: "%-b" -%}
+{{- site.data.translations[m][page.lang] -}}
+{%- endcapture -%} 
+{%- capture year -%}
+  {%- assign y = include.date | date: "%Y" -%}
+  {%- if page.lang == 'es' -%}del{% endif %} {{ y }}
+{%- endcapture -%}
+{%- endcapture -%}

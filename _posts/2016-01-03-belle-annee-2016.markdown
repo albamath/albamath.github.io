@@ -1,0 +1,22 @@
+---
+layout: post
+title: Belle année
+ref: belleannee2016
+date: 2016-01-03 23:43:42.000000000 +01:00
+categories:
+- fr
+tags:
+- systèmes dynamiques
+- annonce
+author: 'Alba Marina MÁLAGA SABOGAL'
+lang: fr
+published: true
+---
+
+![Un simple champ de vecteurs qui fait tout tourner en rond.]({{ site.baseurl }}/assets/img/un-champ-de-vecteurs.png 'Flèches représentant le champ de vecteurs (−y,x) dans la région `max(|x|, |y|)≤2`. Ce dessin a été réalisé avec Sage.')
+
+**Je vous souhaite à tous une belle année 2016.**
+
+A très bientôt, reprendre une publication régulière sur mon blog fait partie de mes résolutions pour le nouvel an.
+
+P.S. Sur l’image, un champ de vecteurs, devinez lequel?

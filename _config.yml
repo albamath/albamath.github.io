@@ -1,29 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: 
-  en: alba~math
-  fr: alba~math
-email: webmaster@albamath.com
-description:
-  en: The website alba~math contains a bunch of contributions by Alba Marina Málaga Sabogal. You can find here updates in my research, the modules I develop for scientific outreach and a general discussion on math-related issues in plenty of aspects.
-  fr: Le site web alba~math contient un ensemble de contributions par Alba Marina Málaga Sabogal. Vous retrouverez ici des nouvelles sur ma recherche, mes efforts de vulgarisation scientifique, et en général sur divers aspects de la vie qui peuvent être discutés mathématiquement.
-index:
-  en: 
-  fr: accueil.html
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://albamath.com" # the base hostname & protocol for your site
+title: alba~math
+lang: fr 
+languages: ["fr", "en"] 
+email: alba@albamath.com
+logo: /assets/img/cropped-albamath-shaded-logo-small-uncentered-tinified.png
+author: Alba MÁLAGA
+show_downloads: false # "true" or "false" to indicate whether to provide a download URL
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: "" # the subpath of the site, e.g. /blog
+url: "http://albamath.com" # the base hostname & protocol for the site, e.g. http://example.com
+  # generate social links in footer (only available in some themes, e.g. minima)
 twitter_username: alba_math
 github_username:  albamath
+disqus:
+  shortname: disqus_3Sof593PnY
+theme: minima
+minima:
+  skin: solarized-dark
+# Permalink structure (it includes the category in the output, which is useful because we are naming categories after lang)
+permalink: none
 
-# Build settings
-markdown: kramdown
-
-# Permalink structure (by default, it includes the category in the output)
-permalink: /:year/:month/:day/:title:output_ext
-
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+   
+# Exclude these files from your production_site
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']

@@ -1,26 +1,12 @@
 ---
 layout: default
-link: index
-lang: en
+ref: selector
+lang: fr
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<ul class="languages">
+{% for lang in site.data.languages %}
+{% assign language = lang[1] %}
+<li><a lang="{{lang[0]}}" href="{{site.baseurl}}{{lang[0]}}">{{language.icon}} {{ language.label }}</a></li>
+{% endfor %}
+</ul>

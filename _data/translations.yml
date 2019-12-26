@@ -1,0 +1,95 @@
+description:
+  en: math research, scientific outreach and more  
+  fr: recherche en maths, médiation scientifique et plus  
+  pl: badania matematyczne, popularyzacja naukowa i więcej  
+  es: investigación matemática, divulgación científica y más  
+home:
+  en: "Home"
+  fr: "Accueil"
+  pl: "Początek"
+  es: "Inicio"
+about:
+  en: "About"
+  fr: "À propos"
+  pl: "O"
+  es: "Acerca de"
+previous:
+  en: "Previous"
+  fr: "Précédent" 
+  es: "Anterior"
+  pl: "Poprzedni"
+next:
+  en: "Next"
+  fr: "Suivant"
+  es: "Siguiente"
+  pl: "Następny"
+related:
+  en: "Related Posts"
+  es: "Artículos Relacionados"
+  fr: "Articles similaires"
+  pl: "Podobne zapisy"
+other:
+  en: "Read this page in a different language"
+  es: "Lea esta página en un idioma diferente"
+  fr: "Lisez cette page dans une langue différente"
+  pl: "Przeczytaj w innym języku"
+Jan:
+  en: "January"
+  es: "enero"
+  fr: "janvier"
+  pl: "stycznia"
+Feb:
+  en: "February"
+  es: "febrero"
+  fr: "février"
+  pl: "lutego"
+Mar:
+  en: "March"
+  es: "marzo"
+  fr: "mars"
+  pl: "marca"
+Apr:
+  en: "April"
+  es: "abril"
+  fr: "avril"
+  pl: "kwietnia"
+May:
+  en: "May"
+  es: "mayo"
+  fr: "mai"
+  pl: "maja"
+Jun:
+  en: "June"
+  es: "junio"
+  fr: "juin"
+  pl: "czerwca"
+Jul:
+  en: "July"
+  es: "julio"
+  fr: "juillet"
+  pl: "lipca"
+Aug:
+  en: "August"
+  es: "agosto"
+  fr: "août"
+  pl: "sierpnia"
+Sep:
+  en: "September"
+  es: "setiembre"
+  fr: "septembre"
+  pl: "września"
+Oct:
+  en: "October"
+  es: "octubre"
+  fr: "octobre"
+  pl: "października"
+Nov:
+  en: "November"
+  es: "noviembre"
+  fr: "novembre"
+  pl: "listopada"
+Dec:
+  en: "December"
+  es: "diciembre"
+  fr: "décembre"
+  pl: "grudnia"
