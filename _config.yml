@@ -1,7 +1,7 @@
 # Site settings
 title: alba~math
-lang: fr 
-languages: ["fr", "en"] 
+lang: fr
+languages: ["fr", "en"]
 email: alba@albamath.com
 logo: /assets/img/cropped-albamath-shaded-logo-small-uncentered-tinified.png
 author: Alba MÁLAGA
@@ -16,7 +16,7 @@ disqus:
   shortname: albamath
 theme: minima
 minima:
-  skin: solarized-dark
+  skin: solarized
 # Permalink structure (it includes the category in the output, which is useful because we are naming categories after lang)
 permalink: none
 
@@ -26,10 +26,14 @@ defaults:
     values:
       image: true
 
+#plugins
+plugins:
+  - jemoji
+
 #collections
 collections:
   objects:
     permalink: :path
-   
+
 # Exclude these files from your production_site
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
