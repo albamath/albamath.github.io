@@ -43,6 +43,31 @@ homein:
   es: "Pagina de inicio en"
   fr: "Page d'accueil en"
   pl: "Strona główna po"
+plsenablejs:
+  en: "Please enable Javascript"
+  es: "Por favor, activa Javascript"
+  fr: "Veuillez activer Javascript"
+  pl: "Proszę włączyć JavaScript"
+toview:
+  en: "to view"
+  es: "para ver"
+  fr: "pour afficher"
+  pl: "aby wyświetlić"
+comments:
+  en: "comments"
+  es: "comentarios"
+  fr: "les commentaires"
+  pl: "komentarze"
+are:
+  en: "are"
+  es: "son"
+  fr: "sont"
+  pl: "są"
+poweredby:
+  en: "powered by"
+  es: "manejados por"
+  fr: "gérés par"
+  pl: "obsługiwane przez"
 en:
   en: "English"
   es: "inglés"

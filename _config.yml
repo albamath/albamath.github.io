@@ -9,14 +9,20 @@ show_downloads: false # "true" or "false" to indicate whether to provide a downl
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "http://albamath.com" # the base hostname & protocol for the site, e.g. http://example.com
-  # generate social links in footer (only available in some themes, e.g. minima)
+# generate social links in footer (only available in some themes, e.g. minima)
 twitter_username: alba_math
 github_username:  albamath
+# comments
+comments_engine: talkyard
 disqus:
   shortname: albamath
+talkyard:
+  server_url: https://comments-for-albamath-com.talkyard.net
+  script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
+# theme
 theme: minima
 minima:
-  skin: solarized
+  skin: classic
 # Permalink structure (it includes the category in the output, which is useful because we are naming categories after lang)
 permalink: none
 
