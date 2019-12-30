@@ -5,7 +5,6 @@ title:  "The Nepali surface"
 load_threejs: true
 my_js_code: nepali.js
 tags: [outreach, javascript, portfolio]
-categories: [en]
 lang: en
 ---
 

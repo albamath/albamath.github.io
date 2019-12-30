@@ -23,8 +23,8 @@ talkyard:
 theme: minima
 minima:
   skin: classic
-# Permalink structure (it includes the category in the output, which is useful because we are naming categories after lang)
-permalink: none
+# Permalink structure
+permalink: :path
 
 defaults:
   - scope:

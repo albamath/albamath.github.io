@@ -5,7 +5,6 @@ title:  "The Kolibri surface"
 load_threejs: true
 my_js_code: kolibri.js
 tags: [outreach, javascript, portfolio]
-categories: [en]
 lang: en
 ---
 
