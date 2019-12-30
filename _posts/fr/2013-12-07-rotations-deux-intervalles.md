@@ -8,8 +8,6 @@ tags:
 - circle
 - iem
 - math
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

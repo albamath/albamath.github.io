@@ -3,8 +3,6 @@ title: L'émotion de la deuxième audition
 ref: lemotion2
 date: 2017-05-06 01:29:55.000000000 +02:00
 tags: [blog, enseignement, société]
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

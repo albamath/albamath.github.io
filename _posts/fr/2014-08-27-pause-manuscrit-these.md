@@ -6,8 +6,6 @@ tags:
 - apprentissage
 - annonce
 - manuscrit
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

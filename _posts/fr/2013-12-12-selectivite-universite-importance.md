@@ -7,8 +7,6 @@ tags:
 - société
 - université
 - question
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

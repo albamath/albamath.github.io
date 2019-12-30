@@ -3,8 +3,6 @@ title: Adorables anglais
 ref: adorablesanglais
 date: 2017-04-20 15:12:58.000000000 +02:00
 tags: []
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

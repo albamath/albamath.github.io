@@ -7,8 +7,6 @@ tags:
 - web
 - khanacademy
 - you can learn anything
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

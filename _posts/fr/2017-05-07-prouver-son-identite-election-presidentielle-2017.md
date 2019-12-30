@@ -3,8 +3,6 @@ title: Prouver son identité (éléction présidentielle 2017)
 ref: prouversonidentite
 date: 2017-05-07 20:06:22.000000000 +02:00
 tags: [blog, société]
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

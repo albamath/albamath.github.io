@@ -3,8 +3,6 @@ title: Les dix ans d'IMAGINARY
 ref: imaginary10years
 date: 2017-12-14 21:54:07.000000000 +01:00
 tags: [blog]
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

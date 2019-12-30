@@ -4,7 +4,6 @@ title:  "The Nepali surface"
 load_threejs: true
 my_js_code: nepali.js
 tags: [outreach, javascript, portfolio]
-lang: en
 ---
 
 This is one of the surfaces from the Herwig Hauser gallery of singularities.

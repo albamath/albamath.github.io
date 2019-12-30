@@ -9,8 +9,6 @@ tags:
 - herwig-hauser-classic
 - IMAGINARY
 - réductions
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

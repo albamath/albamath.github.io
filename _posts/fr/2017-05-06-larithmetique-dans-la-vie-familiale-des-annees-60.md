@@ -7,8 +7,6 @@ tags:
 - société
 - basic
 - enseignement
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

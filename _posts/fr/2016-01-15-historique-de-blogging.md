@@ -10,8 +10,6 @@ tags:
 - mooc
 - tumblr
 - wordpress
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

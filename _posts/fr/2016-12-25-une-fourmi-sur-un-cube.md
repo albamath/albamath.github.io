@@ -5,8 +5,6 @@ date: 2016-12-25 21:08:01.000000000 +01:00
 tags:
 - géométrie
 - systèmes dynamiques
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

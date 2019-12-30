@@ -49,7 +49,7 @@ defaults:
     values:
       layout: home
   - scope:
-      type: portfolio
+      type: objects
     values:
       layout: page
   - scope:
@@ -60,6 +60,82 @@ defaults:
       path: "*/feed.xml"
     values:
       layout: feed
+  - scope:
+      path: fr
+    values:
+      lang: fr
+  - scope:
+      path: en
+    values:
+      lang: en
+  - scope:
+      path: es
+    values:
+      lang: es
+  - scope:
+      path: pl
+    values:
+      lang: pl
+  - scope:
+      path: "_publications/fr"
+      type: publications
+    values:
+      lang: fr
+  - scope:
+      path: "_publications/en"
+      type: publications
+    values:
+      lang: en
+  - scope:
+      path: "_publications/es"
+      type: publications
+    values:
+      lang: es
+  - scope:
+      path: "_publications/pl"
+      type: publications
+    values:
+      lang: pl
+  - scope:
+      path: "_objects/fr"
+      type: objects
+    values:
+      lang: fr
+  - scope:
+      path: "_objects/en"
+      type: objects
+    values:
+      lang: en
+  - scope:
+      path: "_objects/es"
+      type: objects
+    values:
+      lang: es
+  - scope:
+      path: "_objects/pl"
+      type: objects
+    values:
+      lang: pl
+  - scope:
+      path: "_posts/fr"
+      type: posts
+    values:
+      lang: fr
+  - scope:
+      path: "_posts/en"
+      type: posts
+    values:
+      lang: en
+  - scope:
+      path: "_posts/es"
+      type: posts
+    values:
+      lang: es
+  - scope:
+      path: "_posts/pl"
+      type: posts
+    values:
+      lang: pl
 
 #plugins
 plugins:

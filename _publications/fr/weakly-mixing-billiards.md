@@ -7,7 +7,6 @@ excerpt: ""
 date: 2017-01-15 00:00:01.000000000 +01:00
 venue: 'Bulletin of the London Mathematical Society'
 citation: 'Alba Málaga Sabogal, Serge Troubetzkoy, (2017). "Weakly mixing polygonal billiards." <i>Bull. London Math. Soc.</i>. 49 (141-147).'
-lang: fr
 ---
 Cet article parle de billards polygonaux d'un type particulier, où les côtés de la table de billard ne prennent que deux directions : verticale ou horizontale. On appelle ces billards des billards VH.
 

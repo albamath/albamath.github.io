@@ -7,8 +7,6 @@ tags:
 - analogie
 - blague
 - informatique
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

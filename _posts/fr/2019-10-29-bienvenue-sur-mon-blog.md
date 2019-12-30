@@ -6,7 +6,6 @@ tags:
 - personnel
 - website
 - buts
-lang: fr
 ---
 
 Je suis mathématicienne, je suis maker, je suis mère, je suis végétarienne, je suis polonaise, je suis péruvienne, je suis française et encore, je suis mathématicienne.

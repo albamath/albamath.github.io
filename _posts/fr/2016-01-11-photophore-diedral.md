@@ -6,8 +6,6 @@ tags:
 - géométrie
 - groupes
 - invariance
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

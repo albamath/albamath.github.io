@@ -8,8 +8,6 @@ tags:
 - vulgarisation
 - modeles
 - musée
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

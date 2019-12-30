@@ -5,8 +5,6 @@ date: 2013-12-13 10:05:30.000000000 +01:00
 tags:
 - société
 - math
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

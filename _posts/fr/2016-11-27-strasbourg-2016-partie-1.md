@@ -10,8 +10,6 @@ tags:
 - colloque
 - conférence
 - strasbourg
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

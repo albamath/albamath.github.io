@@ -7,8 +7,6 @@ tags:
 - herwig-hauser-classic
 - IMAGINARY
 - SmallLab
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

@@ -5,8 +5,6 @@ date: 2016-11-07 10:22:29.000000000 +01:00
 tags:
 - blog
 - annonce
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

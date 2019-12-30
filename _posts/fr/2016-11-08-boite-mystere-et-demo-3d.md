@@ -11,8 +11,6 @@ tags:
 - μDelta
 - modeles
 - schneeflocke
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

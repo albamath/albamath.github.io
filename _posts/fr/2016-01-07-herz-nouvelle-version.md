@@ -7,8 +7,6 @@ tags:
 - herwig-hauser-classic
 - Herz
 - IMAGINARY
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

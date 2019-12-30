@@ -10,8 +10,6 @@ tags:
 - standards
 - svg
 - wysiwyg
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

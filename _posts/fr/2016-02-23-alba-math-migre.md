@@ -5,7 +5,6 @@ date: 2016-02-23 05:06:23 +0100
 tags:
 - blog
 - setup
-lang: fr
 ---
 
 Ça y est, mon site web généré par [Jekyll](http://jekyllrb.com) est en ligne sur [Github Pages](https://pages.github.com/)!

@@ -3,8 +3,6 @@ title: Cylindres ⇒ carré
 ref: cylindrescarre
 date: 2017-07-24 22:10:02.000000000 +02:00
 tags: [blog, géométrie, vulgarisation]
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

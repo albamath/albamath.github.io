@@ -7,8 +7,6 @@ tags:
 - analogie
 - informatique
 - math
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

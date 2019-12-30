@@ -5,7 +5,6 @@ date: '2016-09-25 01:42:23 +0100'
 tags:
 - blog
 - setup
-lang: en
 published: true
 ---
 

@@ -8,8 +8,6 @@ tags:
 - carrière
 - JCY
 - thèse
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

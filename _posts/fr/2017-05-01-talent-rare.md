@@ -6,8 +6,6 @@ tags:
 - blog
 - société
 - vulgarisation
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

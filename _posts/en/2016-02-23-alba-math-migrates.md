@@ -5,7 +5,6 @@ date: 2016-02-23 05:06:23 +0100
 tags:
 - blog
 - setup
-lang: en
 ---
 
 Cool, my [Jekyll](http://jekyllrb.com) generated website is on-line at [Github Pages](https://pages.github.com/)!

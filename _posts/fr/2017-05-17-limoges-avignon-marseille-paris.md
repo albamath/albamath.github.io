@@ -6,8 +6,6 @@ tags:
 - blog
 - conférence
 - dev
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

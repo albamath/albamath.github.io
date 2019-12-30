@@ -10,8 +10,6 @@ tags:
 - commeon
 - ihp
 - modeles
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

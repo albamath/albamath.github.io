@@ -7,8 +7,6 @@ tags:
 - calculus
 - enseignement
 - sage
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

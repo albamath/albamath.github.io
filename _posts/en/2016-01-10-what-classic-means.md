@@ -5,8 +5,6 @@ date: 2016-01-10 04:18:20.000000000 +01:00
 tags:
 - société
 - classic
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: en
 published: true
 ---
 

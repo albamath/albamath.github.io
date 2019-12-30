@@ -3,8 +3,6 @@ title: Les oies reviennent
 ref: lesoiesreviennent
 date: 2017-09-03 22:56:04.000000000 +02:00
 tags: [blog]
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

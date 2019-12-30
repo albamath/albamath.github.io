@@ -8,8 +8,6 @@ tags:
 - basic
 - circle
 - math
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

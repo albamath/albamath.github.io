@@ -4,8 +4,6 @@ ref: resolutions2017
 date: 2017-01-01 22:53:28.000000000 +01:00
 tags:
 - blog
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

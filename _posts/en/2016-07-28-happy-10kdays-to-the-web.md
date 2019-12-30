@@ -8,8 +8,6 @@ tags:
 - anniversaire
 - firefox
 - thunderclap
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: en
 published: true
 ---
 

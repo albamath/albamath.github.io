@@ -1,6 +1,5 @@
 ---
 ref: index
 list: 'posts'
-list_title: 'Articles'
-lang: fr
+list_title: 'Articles de blog'
 ---

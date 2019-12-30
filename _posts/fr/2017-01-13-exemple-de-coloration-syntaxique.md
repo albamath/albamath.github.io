@@ -7,8 +7,6 @@ tags:
 - coloration-syntaxique
 - css
 - wordpress
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

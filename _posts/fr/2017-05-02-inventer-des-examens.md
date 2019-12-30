@@ -8,8 +8,6 @@ tags:
 - calculus
 - examens
 - sage
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 

@@ -6,8 +6,6 @@ tags:
 - blog
 - informatique
 - université
-author: 'Alba Marina MÁLAGA SABOGAL'
-lang: fr
 published: true
 ---
 
