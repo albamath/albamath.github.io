@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Deuxième anniversaire (de thèse)
 ref: anniversaire2these
 date: 2016-12-14 11:01:24.000000000 +01:00

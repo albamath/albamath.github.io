@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Maths utiles au London Science Museum
 ref: mathsutilesaulondon
 date: 2017-04-27 12:19:05.000000000 +02:00

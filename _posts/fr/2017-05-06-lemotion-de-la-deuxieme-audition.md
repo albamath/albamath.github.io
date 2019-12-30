@@ -1,5 +1,4 @@
 ---
-layout: post
 title: L'émotion de la deuxième audition
 ref: lemotion2
 date: 2017-05-06 01:29:55.000000000 +02:00

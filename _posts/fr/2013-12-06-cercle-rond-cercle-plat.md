@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Le cercle rond e(s)t le cercle plat
 ref: cerclerondplat
 date: 2013-12-06 08:56:00.000000000 +01:00

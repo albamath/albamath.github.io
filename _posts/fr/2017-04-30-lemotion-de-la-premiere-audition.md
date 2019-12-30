@@ -1,5 +1,4 @@
 ---
-layout: post
 title: L'émotion de la première audition
 ref: lemotiondelapremiereaudition
 date: 2017-04-30 22:52:10.000000000 +02:00

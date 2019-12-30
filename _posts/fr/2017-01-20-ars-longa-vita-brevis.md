@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ars longa, vita brevis
 ref: arslonga
 date: 2017-01-20 05:42:28.000000000 +01:00

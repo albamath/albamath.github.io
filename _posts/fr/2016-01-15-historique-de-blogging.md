@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Historique de (mon) blogging.
 ref: historiquedemonblogging
 date: 2016-01-15 01:30:59.000000000 +01:00

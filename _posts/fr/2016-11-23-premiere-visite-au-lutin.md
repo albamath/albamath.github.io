@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Première visite au LUTIN
 ref: premierevisitelutin
 date: 2016-11-23 19:34:34.000000000 +01:00

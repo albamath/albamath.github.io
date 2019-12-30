@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'WTFmaths : Les Tableaux (reblogged)'
 ref: wtfmathstableaux
 date: 2013-12-13 10:05:30.000000000 +01:00

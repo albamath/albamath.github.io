@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Une belle photo de la nébuleuse de l'Œil de Chat
 ref: nebuleuseoeilchat
 date: 2013-12-06 21:39:00.000000000 +01:00

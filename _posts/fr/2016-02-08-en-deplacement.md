@@ -1,5 +1,4 @@
 ---
-layout: post
 title: En déplacement
 ref: endeplacementaix
 date: 2016-02-08 01:10:44.000000000 +01:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: alba~math stays on Wordpress
 ref: albamathsurwp
 date: '2016-09-25 01:42:23 +0100'

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pourquoi on écrit plus souvent des trilogies que des hexalogies?
 ref: trilogieshexalogies
 date: 2013-12-08 19:42:00.000000000 +01:00

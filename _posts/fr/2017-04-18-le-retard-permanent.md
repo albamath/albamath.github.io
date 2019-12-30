@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Le retard permanent
 ref: leretardpermanent
 date: 2017-04-18 00:18:09.000000000 +02:00

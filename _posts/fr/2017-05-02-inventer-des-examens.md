@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inventer des examens
 ref: inventerdesexamens
 date: 2017-05-02 08:00:51.000000000 +02:00

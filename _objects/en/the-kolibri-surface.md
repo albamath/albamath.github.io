@@ -1,5 +1,4 @@
 ---
-layout: page
 ref: kolibri
 title:  "The Kolibri surface"
 load_threejs: true

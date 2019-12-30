@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Weakly mixing polygonal billiards"
 halid: '01304088'
 ref: weakmixingpaper

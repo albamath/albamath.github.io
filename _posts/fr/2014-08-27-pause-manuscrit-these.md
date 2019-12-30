@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pause
 ref: pausemanuscritthese
 date: 2014-08-27 14:30:23.000000000 +02:00

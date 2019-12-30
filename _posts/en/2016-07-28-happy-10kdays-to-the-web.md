@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 10K Days
 ref: 10kdays
 date: 2016-07-28 17:00:42.000000000 +02:00

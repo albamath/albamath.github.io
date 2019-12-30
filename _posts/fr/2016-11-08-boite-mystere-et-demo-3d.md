@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Boîte mystérieuse et démonstration 3D
 ref: boiteetdemo3D
 date: 2016-11-08 22:29:28.000000000 +01:00

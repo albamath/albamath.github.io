@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Herz - nouvelle version
 ref: herznouvelleversion
 date: 2016-01-07 22:00:55.000000000 +01:00

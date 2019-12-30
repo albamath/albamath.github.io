@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Les dix ans d'IMAGINARY
 ref: imaginary10years
 date: 2017-12-14 21:54:07.000000000 +01:00

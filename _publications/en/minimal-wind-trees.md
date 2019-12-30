@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Minimality of the Ehrenfest wind-tree model"
 halid: '01158924'
 ref: minimalwindtreepaper

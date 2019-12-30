@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Adorables anglais
 ref: adorablesanglais
 date: 2017-04-20 15:12:58.000000000 +02:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Math mon modèle
 ref: mathmonmodele
 date: 2017-10-23 21:20:49.000000000 +02:00

@@ -31,6 +31,35 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: "*/index.md"
+      type: pages
+    values:
+      layout: home
+  - scope:
+      type: portfolio
+    values:
+      layout: page
+  - scope:
+      type: publications
+    values:
+      layout: page
+  - scope:
+      path: "*/feed.xml"
+    values:
+      layout: feed
 
 #plugins
 plugins:

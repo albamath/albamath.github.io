@@ -1,5 +1,4 @@
 ---
-layout: post
 ref: welcome-2019
 title:  "Welcome to my blog"
 tags:

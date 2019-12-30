@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Khan Academy
 ref: khanacademy
 date: 2016-01-17 03:07:27.000000000 +01:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Herz et bébé Herz
 ref: herzetbebeherz
 date: 2016-01-14 08:04:04.000000000 +01:00

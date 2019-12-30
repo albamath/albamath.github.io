@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Un photophore qui se veut invariant par un groupe diédral
 ref: unphotophoreinvariant
 date: 2016-01-11 20:18:41.000000000 +01:00

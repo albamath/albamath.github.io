@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Ergodicity of the Ehrenfest wind–tree model"
 halid: '01273212'
 ref: ergodicwindtreepaper

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: L'arithmétique dans la vie familiale des années 60
 ref: larithmetiquefamille
 date: 2017-05-06 22:17:01.000000000 +02:00

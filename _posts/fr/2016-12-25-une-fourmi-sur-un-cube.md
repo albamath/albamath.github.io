@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Une fourmi sur un cube
 ref: unefourmisuruncube
 date: 2016-12-25 21:08:01.000000000 +01:00

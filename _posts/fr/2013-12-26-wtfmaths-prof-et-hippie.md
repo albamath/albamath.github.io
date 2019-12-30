@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'WTFMaths : Prof et Hippie (reblogged)'
 ref: wtfmathsprofethippie
 date: 2013-12-26 11:36:27.000000000 +01:00

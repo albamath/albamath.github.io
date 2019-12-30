@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Strasbourg 2016 - partie 1
 ref: strasbourg2016
 date: 2016-11-27 11:43:14.000000000 +01:00

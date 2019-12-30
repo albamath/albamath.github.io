@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mon premier essai au SmallLab: Schneeflocke'
 ref: smalllabpremieressai
 date: 2016-01-23 15:16:51.000000000 +01:00

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Infinite ergodic index of the Ehrenfest wind-tree model"
 halid: '01433019'
 ref: mixingwindtreepaper

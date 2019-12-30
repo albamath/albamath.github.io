@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Limoges, Avignon, Marseille, Paris
 ref: lamp2017
 date: 2017-05-17 22:15:46.000000000 +02:00

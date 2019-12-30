@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Machine de Turing en papier
 ref: machineturingpapier
 date: 2016-11-21 13:38:34.000000000 +01:00

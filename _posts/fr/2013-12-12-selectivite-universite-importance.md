@@ -1,5 +1,4 @@
 ---
-layout: post
 title: La selectivité à l'entrée de l'université est-elle si importante?
 ref: selectiviteuniversitaireperou
 date: 2013-12-12 22:09:00.000000000 +01:00

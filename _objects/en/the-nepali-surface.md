@@ -1,5 +1,4 @@
 ---
-layout: page
 ref: nepali
 title:  "The Nepali surface"
 load_threejs: true

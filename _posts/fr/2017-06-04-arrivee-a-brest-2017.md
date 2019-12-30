@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Arrivée à Brest 2017
 ref: brest2017
 date: 2017-06-04 14:14:31.000000000 +02:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "alba~math migrates again!"
 ref: albamathmigre
 date: 2016-02-23 05:06:23 +0100

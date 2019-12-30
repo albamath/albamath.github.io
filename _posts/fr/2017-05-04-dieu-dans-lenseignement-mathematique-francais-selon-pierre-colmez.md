@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dieu dans l'enseignement mathématique français (selon Pierre Colmez)
 ref: dieumathscolmez
 date: 2017-05-04 09:14:29.000000000 +02:00

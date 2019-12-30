@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Égalité et paradoxe de Russell
 ref: egaliteetparadoxederussell
 date: 2016-11-07 22:17:55.000000000 +01:00

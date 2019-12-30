@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rotations = échanges d'intervalles à deux intervalles
 ref: rotationechangeintervalles
 date: 2013-12-07 23:17:00.000000000 +01:00

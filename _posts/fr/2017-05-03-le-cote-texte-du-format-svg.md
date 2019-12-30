@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Le côté texte du format svg
 ref: lecotetextedusvg
 date: 2017-05-03 14:48:43.000000000 +02:00

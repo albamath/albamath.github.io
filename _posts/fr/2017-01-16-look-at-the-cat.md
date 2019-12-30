@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Look at the CAT
 ref: lookatthecat
 date: 2017-01-16 20:16:23.000000000 +01:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ma vie en rectangles
 ref: vieentriangles
 date: 2017-05-08 17:39:32.000000000 +02:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What classic means
 ref: whatclassicmeans
 date: 2016-01-10 04:18:20.000000000 +01:00

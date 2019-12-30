@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Examen et lignes de niveau
 ref: examenlignesniveau
 date: 2016-01-05 02:42:18.000000000 +01:00

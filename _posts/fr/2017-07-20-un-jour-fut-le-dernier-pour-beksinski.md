@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Un jour fût le dernier pour Beksiński
 ref: unjourfutledernier
 date: 2017-07-20 23:28:54.000000000 +02:00

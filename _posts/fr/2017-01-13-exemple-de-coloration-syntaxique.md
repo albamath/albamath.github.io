@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Proof  of concept : exemple de coloration syntaxique'
 ref: colorationsyntaxique
 date: 2017-01-13 16:05:55.000000000 +01:00

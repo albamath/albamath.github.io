@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Les maths,  LaTeX et l'accessibilité numérique
 ref: latexaccessibiliteatelier
 date: 2016-02-14 00:46:18.000000000 +01:00

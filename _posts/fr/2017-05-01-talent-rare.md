@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Talent rare
 ref: talentrare
 date: 2017-05-01 08:03:44.000000000 +02:00

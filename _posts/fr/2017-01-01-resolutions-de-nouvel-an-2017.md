@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Résolutions de nouvel an - 2017
 ref: resolutions2017
 date: 2017-01-01 22:53:28.000000000 +01:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: La géométrié algébrique dans la théorie de l'apprentissage
 ref: geometriealgebriqueetapprentissage
 date: 2014-01-12 22:34:02.000000000 +01:00
