@@ -38,6 +38,9 @@ plugins:
 
 #collections
 collections:
+  publications:
+    output: true
+    permalink: :path
   objects:
     permalink: :path
 
