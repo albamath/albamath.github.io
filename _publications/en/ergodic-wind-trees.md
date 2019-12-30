@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ergodicité du modèle vent–arbre des Ehrenfest"
+title: "Ergodicity of the Ehrenfest wind–tree model"
 halid: '01273212'
 ref: ergodicwindtreepaper
 collection: publications
