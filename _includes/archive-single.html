@@ -60,9 +60,7 @@
       {%- endif -%}
     {%- elsif doc.citation -%}
       <p>
-        {{- site.data.translations['suggestedcitation'][page.lang] | capitalize | escape -}}
-        {%- if page.lang == 'fr' -%}&nbsp;{%- endif -%}:
-        {{ doc.citation -}}
+        {{- doc.citation -}}
       </p>
     {%- endif -%}
 
