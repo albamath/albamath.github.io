@@ -1,53 +1,88 @@
 description:
-  en: math research, scientific outreach and more
-  fr: recherche en maths, médiation scientifique et plus
-  pl: badania matematyczne, popularyzacja naukowa i więcej
-  es: investigación matemática, divulgación científica y más
+  en: this site is about something
+  fr: ce site parle de quelque chose
+  pl: ta strona o czymś jest
+  es: esta página de algo habla
 home:
-  en: "Home"
-  fr: "Accueil"
-  pl: "Początek"
-  es: "Inicio"
+  en: "home"
+  fr: "accueil"
+  pl: "początek"
+  es: "inicio"
 about:
-  en: "About"
-  fr: "À propos"
-  pl: "O"
-  es: "Acerca de"
+  en: "about"
+  fr: "à  propos"
+  pl: "o"
+  es: "acerca de"
 previous:
-  en: "Previous"
-  fr: "Précédent"
-  es: "Anterior"
-  pl: "Poprzedni"
+  en: "previous"
+  fr: "précédent"
+  es: "anterior"
+  pl: "poprzedni"
 next:
-  en: "Next"
-  fr: "Suivant"
-  es: "Siguiente"
-  pl: "Następny"
+  en: "next"
+  fr: "suivant"
+  es: "siguiente"
+  pl: "następny"
 subscribe:
-  en: "Subscribe"
-  fr: "S'abonner"
-  es: "Suscribirse"
-  pl: "Subskrybować"
+  en: "subscribe"
+  fr: "s'abonner"
+  es: "suscribirse"
+  pl: "subskrybować"
 related:
-  en: "Related Posts"
-  es: "Artículos Relacionados"
-  fr: "Articles similaires"
-  pl: "Podobne zapisy"
+  en: "related posts"
+  es: "artículos relacionados"
+  fr: "articles similaires"
+  pl: "podobne zapisy"
 readthisin:
-  en: "Read this in"
-  es: "Lea esto en"
-  fr: "Lisez ceci en"
-  pl: "Przeczytaj po"
+  en: "read this in"
+  es: "lea esto en"
+  fr: "lisez ceci en"
+  pl: "przeczytaj po"
 homein:
-  en: "Home page in"
-  es: "Pagina de inicio en"
-  fr: "Page d'accueil en"
-  pl: "Strona główna po"
+  en: "home page in"
+  es: "pagina de inicio en"
+  fr: "page d'accueil en"
+  pl: "strona główna po"
+publishedin:
+  en: "published in"
+  es: "publicado en"
+  fr: "paru dans"
+  pl: "opublikowane w"
+download:
+  en: "download"
+  es: "descargar"
+  fr: "télécharger"
+  pl: "pobrać"
+here:
+  en: "here"
+  es: "aquí"
+  fr: "ici"
+  pl: "tutaj"
+bibliocitation:
+  en: "bibliographic citation"
+  es: "referencia bibliográfica"
+  fr: "référence bibliographique"
+  pl: "opis bibliograficzny"
+citation:
+  en: "citation"
+  es: "referencia"
+  fr: "référence"
+  pl: "opis"
+recommended:
+  en: "recommended"
+  es: "aconsejada"
+  fr: "conseillée"
+  pl: "doradzony"
+suggestedcitation:
+  en: "suggested citation"
+  es: "referencia sugerida"
+  fr: "référence suggérée"
+  pl: "radzony opis"
 plsenablejs:
-  en: "Please enable Javascript"
-  es: "Por favor, activa Javascript"
-  fr: "Veuillez activer Javascript"
-  pl: "Proszę włączyć JavaScript"
+  en: "please enable Javascript"
+  es: "por favor, activa Javascript"
+  fr: "veuillez activer Javascript"
+  pl: "proszę włączyć JavaScript"
 toview:
   en: "to view"
   es: "para ver"

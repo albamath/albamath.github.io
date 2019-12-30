@@ -1,0 +1,74 @@
+{%- assign level = include.level -%}
+
+{%- unless level -%}
+  {%- assign level = 1 -%}
+  {%- if page.title -%}
+    {%- assign level = level | plus: 1 -%}
+  {%- endif -%}
+  {%- if page.list_title -%}
+    {%- assign level = level | plus: 1 -%}
+  {%- endif -%}
+{%- endunless -%}
+
+{%- assign type = include.type | default: 'list' -%}
+{%- if type == 'list' -%}
+<li>
+{%- endif -%}
+
+<div class="{{- type -}}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h{{- level }} class="post-list-heading archive__item-title" itemprop="headline">
+      {%- if doc.collection == 'posts' -%}
+      {%- if page.lang == 'en' -%} {%- assign date_format = "%Y-%m-%d" -%}
+      {%- else -%} {%- assign date_format = "%d/%m/%Y" -%} {%- endif -%}
+      <span class="post-meta">{{ doc.date | date: date_format }}</span>
+      {%- endif -%}
+      <a class="post-link" href="{{ doc.url | relative_url }}" rel="permalink">{{ doc.title | escape }}</a>
+    </h{{- level -}} >
+
+    {%- if doc.collection == 'teaching' -%}
+    <p> {{ doc.type }}, <i>{{ doc.venue }}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {%- elsif doc.collection == 'publications' %}
+    <p>
+      {{- site.data.translations['publishedin'][doc.lang] | capitalize | escape }}
+      <i>{{- doc.venue -}}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" -}}
+    </p>
+    {%- endif -%}
+
+    {%- if site.show_excerpts -%}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ doc.excerpt | markdownify }}
+    </p>
+    {%- endif -%}
+
+    {%- if doc.dlname -%}
+      {%- capture asseturl -%} {%- include asset-url.html assetname = doc.dlname -%} {%- endcapture -%}
+      {%- if doc.citation -%}
+      <p>
+        {{- site.data.translations['suggestedcitation'][page.lang] | capitalize | escape }}
+        {%- if page.lang == 'fr' -%}&nbsp;{%- endif -%}:
+        {{ doc.citation-}}<br>
+        <a href="{{- asseturl -}}">{{- asseturl -}}</a>
+      </p>
+      {%- else -%}
+      <p>
+        {{- site.data.translations['download'][page.lang] | capitalize | escape }}
+        <a href="{{- asseturl -}}">
+          {{- site.data.translations['here'][page.lang] | escape -}}
+        </a>.
+      </p>
+      {%- endif -%}
+    {%- elsif doc.citation -%}
+      <p>
+        {{- site.data.translations['suggestedcitation'][page.lang] | capitalize | escape -}}
+        {%- if page.lang == 'fr' -%}&nbsp;{%- endif -%}:
+        {{ doc.citation -}}
+      </p>
+    {%- endif -%}
+
+  </article>
+</div>
+
+{%- if type == 'list' -%}
+</li>
+{%- endif -%}
