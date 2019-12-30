@@ -2,7 +2,7 @@
 layout: page
 title: "Ergodicité du modèle vent–arbre des Ehrenfest"
 halid: '01273212'
-ref: windtreeergodicity
+ref: ergodicwindtreepaper
 collection: publications
 excerpt: ""
 date: 2016-09-14 00:00:01.000000000 +01:00
