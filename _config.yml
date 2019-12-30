@@ -13,7 +13,7 @@ url: "http://albamath.com" # the base hostname & protocol for the site, e.g. htt
 twitter_username: alba_math
 github_username:  albamath
 # comments
-comments_engine: talkyard
+# comments_engine: talkyard
 disqus:
   shortname: albamath
 talkyard:
