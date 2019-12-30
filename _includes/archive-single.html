@@ -29,9 +29,11 @@
     {%- if doc.collection == 'teaching' -%}
     <p> {{ doc.type }}, <i>{{ doc.venue }}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" }} </p>
     {%- elsif doc.collection == 'publications' %}
+      {%- unless doc.citation -%}
     <p>
-      {{- site.data.translations['publishedin'][doc.lang] | capitalize | escape }}
+        {{- site.data.translations['publishedin'][doc.lang] | capitalize | escape }}
       <i>{{- doc.venue -}}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" -}}
+      {%- endunless -%}
     </p>
     {%- endif -%}
 
