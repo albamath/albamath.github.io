@@ -1,0 +1,22 @@
+{%- if include.img -%}
+  {%- assign imgfile = site.static_files | where:'name', include.img | first -%}
+  {%- if imgfile -%}
+    <figure>
+      {% if include.url %}
+      <a href = "{{- include.url -}}">
+      {% endif %}
+      <img
+        src = "{{- imgfile.path | relative_url -}}"
+        {%- if include.alt %}
+        alt = "{{- include.alt | escape -}}"
+        {%- endif -%}
+      >
+      {%- if include.url -%}
+      </a>
+      {%- endif -%}
+      {%- if include.caption -%}
+          <figcaption>{{ include.caption | escape }}</figcaption>
+      {%- endif -%}
+    </figure>
+  {%- endif -%}
+{%- endif -%}
