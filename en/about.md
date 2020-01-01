@@ -2,7 +2,10 @@
 title: About
 ref: about
 published: true
+img: 'alba-ordi-icerm-3.jpg'
 ---
+{%- include image.html
+  alt = "Alba Málaga happily looking at you from behind a computer." %}
 
 My name is Alba Marina Málaga Sabogal. I created [this]({{page.lang | absolute_url}}) mathematical website to share the knowledge, ideas and feelings that I have gathered along the years.
 

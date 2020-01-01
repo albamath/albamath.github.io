@@ -2,7 +2,10 @@
 title: À propos
 ref: about
 published: true
+img: 'alba-ordi-icerm-3.jpg'
 ---
+{%- include image.html
+  alt = "Alba Málaga vous regardant contente derrière un ordinateur." %}
 
 Je m'appelle Alba Marina Málaga Sabogal. J'ai créé [cette page]({{page.lang | absolute_url}}) autour des mathématiques pour partager les connaissances, les idées et les ressentis que j'ai accumulé sur cette noble science au fil des années.
 
