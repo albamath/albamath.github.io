@@ -92,17 +92,20 @@
         <span itemprop="startDate">{{- doc.period.end -}}</span>
 
       {%- endif -%}
+
       </span>
+
     {%- endunless -%}
 
     {%- if doc.period.start and doc.period.end -%}
-      <span itemprop="startDate">{{doc.period.start}}</span>–<span itemprop="endDate">{{doc.period.end}}</span>
-    {% endif -%}
 
-    {%- if doc.degree -%}
+      <span itemprop="startDate">{{doc.period.start}}</span>–<span itemprop="endDate">{{doc.period.end}}</span>
+
+    {%- endif -%}
+
+    {%- if doc.degree %}
       (<span itemprop="hasCredential" itemscope
-             itemtype="https://schema.org/EducationalOccupationalCredential">
-      {{doc.degree}}</span>)
+             itemtype="https://schema.org/EducationalOccupationalCredential">{{doc.degree}}</span>)
     {%- endif -%}
 
     </p>

@@ -1,6 +1,6 @@
 ---
 title: ""
-ref: polytechniquedegree
+ref: polytechniquediploma
 date: 2013-04-15 00:00:01.000000000 +01:00
 institution:
   name: 'École polytechnique'
