@@ -1,21 +1,21 @@
-{%- capture list -%}
-  {{- page.list | default: include.list -}}
-{%- endcapture -%}
+{%- assign list = include.list | default: page.list -%}
 
 {%- if list -%}
+
   {%- assign collection = site.collections | where:'label', list | first -%}
 
   {%- assign docs = collection.docs | where:"lang", page.lang -%}
 
-  {%- assign level = 1 -%}
-  {%- if page.title -%}
-    {%- assign level = level | plus: 1 -%}
-  {%- endif -%}
-
   {%- if docs.size > 0 -%}
+    {%- assign level = 1 -%}
+    {%- if page.title -%}
+      {%- assign level = level | plus: 1 -%}
+    {%- endif -%}
+
   <ul class="post-list">
-    {%- if page.list_title -%}
-    <h{{- level }} class="post-list-heading">{{ page.list_title }}</h{{- level -}}>
+    {%- assign list_title = include.list_title | default: page.list_title -%}
+    {%- if list_title -%}
+    <h{{- level }} class="post-list-heading">{{ list_title | escape }}</h{{- level -}}>
       {%- assign level = level | plus: 1 -%}
     {%- endif -%}
 
@@ -28,6 +28,7 @@
         {%- include archive-single.html level = level -%}
       {%- endfor -%}
     {%- endif -%}
+
     {%- if list == 'posts' -%}
     <p class="feed-subscribe">
       <a href="{{ '/feed.xml' | prepend: page.lang | relative_url }}">
@@ -35,6 +36,9 @@
       </a>
     </p>
     {%- endif -%}
+
   </ul>
+
   {%- endif -%}
+
 {%- endif -%}

@@ -10,63 +10,141 @@
   {%- endif -%}
 {%- endunless -%}
 
+{%- if doc.title   and doc.title != blank
+   and doc.excerpt and doc.excerpt != blank
+   and site.show_excerpts -%}
+  {%- assign sectionorarticle = 'article' -%}
+  {%- capture schema -%}
+    {%- case doc.collection -%}
+      {%- when 'posts' -%} BlogPosting
+      {%- when 'publications' -%} ScholarlyArticle
+    {%- endcase -%}
+  {%- endcapture -%}
+{%- else -%}
+  {%- assign sectionorarticle = 'section' -%}
+{%- endif -%}
+
+{%- unless schema -%}
+  {%- assign schema = 'ListItem' -%}
+{%- endunless -%}
+
+{%- assign schematype = '"' | prepend: schema -%}
+{%- assign schematype = schematype | prepend: 'itemscope
+      itemtype="https://schema.org/' -%}
+
 {%- assign type = include.type | default: 'list' -%}
 {%- if type == 'list' -%}
 <li>
 {%- endif -%}
 
 <div class="{{- type -}}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h{{- level }} class="post-list-heading archive__item-title" itemprop="headline">
-      {%- if doc.collection == 'posts' -%}
-      {%- if page.lang == 'en' -%} {%- assign date_format = "%Y-%m-%d" -%}
-      {%- else -%} {%- assign date_format = "%d/%m/%Y" -%} {%- endif -%}
-      <span class="post-meta">{{ doc.date | date: date_format }}</span>
-      {%- endif -%}
-      <a class="post-link" href="{{ doc.url | relative_url }}" rel="permalink">{{ doc.title | escape }}</a>
-    </h{{- level -}} >
+  <{{- sectionorarticle }} class="archive__item" {{ schematype -}}>
+{%- if doc.title and doc.title != blank -%}
 
-    {%- if doc.collection == 'teaching' -%}
-    <p> {{ doc.type }}, <i>{{ doc.venue }}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {%- elsif doc.collection == 'publications' %}
-      {%- unless doc.citation -%}
-    <p>
-        {{- site.data.translations['publishedin'][doc.lang] | capitalize | escape }}
-      <i>{{- doc.venue -}}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" -}}
-      {%- endunless -%}
-    </p>
+    <h{{- level }} class="gh archive__item-title" itemprop="headline">
+
+  {%- if doc.collection == 'posts' -%}
+    {%- if page.lang == 'en' -%} {%- assign date_format = "%Y-%m-%d" -%}
+    {%- else -%} {%- assign date_format = "%d/%m/%Y" -%}
     {%- endif -%}
 
-    {%- if site.show_excerpts -%}
+      <span class="post-meta">{{ doc.date | date: date_format }}</span>
+
+  {%- endif -%}
+
+      <a class="post-link" href="{{ doc.url | relative_url }}" rel="permalink">{{ doc.title }}</a>
+    </h{{- level -}} >
+{%- endif -%}
+
+{%- case doc.collection -%}
+  {%- when 'teaching' -%}
+
+    <p> {{ doc.type }}, <i>{{ doc.venue }}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+  {%- when 'publications' %}
+    {%- unless doc.citation -%}
+
+    <p>
+      {{- site.data.translations['publishedin'][doc.lang] | capitalize | escape }}
+      <i>{{- doc.venue -}}</i>, {{ doc.date | default: "1900-01-01" | date: "%Y" -}}
+    </p>
+
+    {%- endunless -%}
+  {%- when 'education' %}
+    <p>
+    {% if doc.institution -%}
+      <span itemprop="alumniOf" itemscope
+            itemtype="https://schema.org/{{doc.institution.schema}}">
+
+      {%- if doc.institution.url %}
+        <a href="{{doc.institution.url}}" rel="external" itemprop="url">
+          <span itemprop="name">{{- doc.institution.name -}}</span>,
+        </a>
+      {%- elsif doc.institution.name %}
+        <span itemprop="name">{{- doc.institution.name -}}</span>,
+      {% endif %}
+      </span>
+    {% endif -%}
+
+    {%- unless doc.period.start -%}
+      {%- if doc.period.end -%}
+
+        <span itemprop="startDate">{{- doc.period.end -}}</span>
+
+      {%- endif -%}
+      </span>
+    {%- endunless -%}
+
+    {%- if doc.period.start and doc.period.end -%}
+      <span itemprop="startDate">{{doc.period.start}}</span>–<span itemprop="endDate">{{doc.period.end}}</span>
+    {% endif -%}
+
+    {%- if doc.degree -%}
+      (<span itemprop="hasCredential" itemscope
+             itemtype="https://schema.org/EducationalOccupationalCredential">
+      {{doc.degree}}</span>)
+    {%- endif -%}
+
+    </p>
+
+{%- endcase -%}
+
+{%- if     doc.excerpt
+       and doc.excerpt != blank
+       and site.show_excerpts -%}
+
     <p class="archive__item-excerpt" itemprop="description">
       {{ doc.excerpt | markdownify }}
     </p>
-    {%- endif -%}
 
-    {%- if doc.dlname -%}
-      {%- capture asseturl -%} {%- include asset-url.html assetname = doc.dlname -%} {%- endcapture -%}
-      {%- if doc.citation -%}
-      <p>
-        {{- site.data.translations['suggestedcitation'][page.lang] | capitalize | escape }}
-        {%- if page.lang == 'fr' -%}&nbsp;{%- endif -%}:
-        {{ doc.citation-}}<br>
-        <a href="{{- asseturl -}}">{{- asseturl -}}</a>
-      </p>
-      {%- else -%}
-      <p>
-        {{- site.data.translations['download'][page.lang] | capitalize | escape }}
-        <a href="{{- asseturl -}}">
-          {{- site.data.translations['here'][page.lang] | escape -}}
-        </a>.
-      </p>
-      {%- endif -%}
-    {%- elsif doc.citation -%}
-      <p>
-        {{- doc.citation -}}
-      </p>
-    {%- endif -%}
+{%- endif -%}
 
-  </article>
+{%- if doc.dlname -%}
+  {%- capture asseturl -%}
+    {%- include asset-url.html assetname = doc.dlname -%}
+  {%- endcapture -%}
+  {%- if doc.citation -%}
+    <p>
+    {{- site.data.translations['suggestedcitation'][page.lang] | capitalize | escape }}
+    {%- if page.lang == 'fr' -%}&nbsp;{%- endif -%}:
+      {{ doc.citation-}}<br>
+      <a href="{{- asseturl -}}">{{- asseturl -}}</a>
+    </p>
+  {%- else -%}
+    <p>
+    {{- site.data.translations['download'][page.lang] | capitalize | escape }}
+      <a href="{{- asseturl -}}">
+    {{- site.data.translations['here'][page.lang] | escape -}}
+      </a>.
+    </p>
+  {%- endif -%}
+{%- elsif doc.citation -%}
+    <p>
+  {{- doc.citation -}}
+    </p>
+{%- endif -%}
+
+  </{{- sectionorarticle -}}>
 </div>
 
 {%- if type == 'list' -%}

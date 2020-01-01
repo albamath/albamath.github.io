@@ -77,6 +77,26 @@ defaults:
     values:
       lang: pl
   - scope:
+      path: "_education/fr"
+      type: education
+    values:
+      lang: fr
+  - scope:
+      path: "_education/en"
+      type: education
+    values:
+      lang: en
+  - scope:
+      path: "_education/es"
+      type: education
+    values:
+      lang: es
+  - scope:
+      path: "_education/pl"
+      type: education
+    values:
+      lang: pl
+  - scope:
       path: "_publications/fr"
       type: publications
     values:
@@ -144,6 +164,9 @@ plugins:
 #collections
 collections:
   publications:
+    output: true
+    permalink: :path
+  education:
     output: true
     permalink: :path
   objects:
