@@ -2,8 +2,7 @@
 title: "Minimality of the Ehrenfest wind-tree model"
 halid: '01158924'
 ref: minimalwindtreepaper
-collection: publications
-excerpt: ""
+excerpt: "La dynamique d'un wind-tree générique est minimale dans un large ensemble de directions."
 date: 2016-06-01 00:00:01.000000000 +01:00
 venue: "Journal of modern dynamics"
 citation: 'Alba Málaga Sabogal, Serge Troubetzkoy. (2016)  "Minimality of the Ehrenfest wind-tree model" <i>Journal of modern dynamics</i>. 10 (209-228)'

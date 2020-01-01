@@ -2,8 +2,7 @@
 title: "Infinite ergodic index of the Ehrenfest wind-tree model"
 halid: '01433019'
 ref: mixingwindtreepaper
-collection: publications
-excerpt: ""
+excerpt: "La dynamique d'un wind-tree générique, dans un large ensemble de directions,  satisfait que toutes ses puissances cartésiennes sont ergodiques."
 date: 2017-12-22 00:00:01.000000000 +01:00
 venue: 'Communications in Mathematical Physics'
 citation: 'Alba Málaga Sabogal, Serge Troubetzkoy, (2018). "Infinite ergodic index of the Ehrenfest wind-tree model." <i> Commun. Math. Phys. </i>. 358 (995–1006x).'

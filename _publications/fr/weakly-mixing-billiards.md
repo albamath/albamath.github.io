@@ -2,8 +2,7 @@
 title: "Weakly mixing polygonal billiards"
 halid: '01304088'
 ref: weakmixingpaper
-collection: publications
-excerpt: ""
+excerpt: "La dynamique d'un billard VH générique est faiblement dans un grand ensemble de directions."
 date: 2017-01-15 00:00:01.000000000 +01:00
 venue: 'Bulletin of the London Mathematical Society'
 citation: 'Alba Málaga Sabogal, Serge Troubetzkoy, (2017). "Weakly mixing polygonal billiards." <i>Bull. London Math. Soc.</i>. 49 (141-147).'
