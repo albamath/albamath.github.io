@@ -1,5 +1,6 @@
-{%- if include.img -%}
-  {%- assign imgfile = site.static_files | where:'name', include.img | first -%}
+{%- assign img = include.img | default: page.img -%}
+{%- if img -%}
+  {%- assign imgfile = site.static_files | where:'name', img | first -%}
   {%- if imgfile -%}
     <figure>
       {% if include.url %}

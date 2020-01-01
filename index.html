@@ -1,10 +1,14 @@
 ---
+layout: home
 ref: selector
+img: 'alba-ordi-icerm-1.jpg'
 ---
-
-<ul class="languages">
-{% for lang in site.data.languages %}
-{% assign language = lang[1] %}
-<li><a lang="{{lang[0]}}" href="{{lang[0] | absolute_url}}">{{language.icon}} {{ language.label }}</a></li>
-{% endfor %}
-</ul>
+{%- include image.html
+  alt = "Alba Málaga travaillant sur un ordinateur." %}
+ •
+  {%- for lang in site.data.languages -%}
+  {%- assign language = lang[1] -%}
+  {%- assign lnow = lang[0]   %}
+  <a lang="{{lang[0]}}" href="{{lang[0] | absolute_url}}">{{language.icon}} {{site.data.translations['homein'][lnow] | capitalize }} {{ language.label }}</a>
+ •
+  {%- endfor %}

@@ -3,18 +3,19 @@ layout: default
 ---
 
 <div role="main" class="home">
+
   {%- if page.title -%}
     <h1 class="page-heading page__title">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
-  
+
   {%- if page.list == 'posts' -%}
     {%- assign archive_reverse = true -%}
   {%- else -%}
     {%- assign archive_reverse = page.archive_reverse -%}
   {%- endif -%}
-  
+
   {%- include archive-collection.html reverse = archive_reverse -%}
 
 </div>

@@ -22,7 +22,7 @@ talkyard:
 # theme
 theme: minima
 minima:
-  skin: classic
+  skin: solarized
 # Permalink structure
 permalink: :path
 
