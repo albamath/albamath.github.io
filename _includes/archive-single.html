@@ -48,7 +48,16 @@
     {%- else -%} {%- assign date_format = "%d/%m/%Y" -%}
     {%- endif -%}
 
-      <span class="post-meta">{{ doc.date | date: date_format }}</span>
+      <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="{{- site.author -}}"/>
+        <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="{{- site.logo | absolute_url -}}" />
+        </span>
+      </span>
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <meta itemprop="name" content="{{- doc.author | default: site.author -}}">
+      </span>
+      <span class="post-meta"><time datetime="{{- doc.date -}}" itemprop="datePublished">{{ doc.date | date: date_format }}</time></span>
 
   {%- endif -%}
 
