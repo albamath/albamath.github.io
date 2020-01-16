@@ -2,6 +2,7 @@
 title: Une fourmi sur un cube
 ref: unefourmisuruncube
 date: 2016-12-25 21:08:01.000000000 +01:00
+img: chemins-cube.png
 tags:
 - géométrie
 - systèmes dynamiques
@@ -21,8 +22,11 @@ pas par ou continuer.
 La fourmi pourra satisfaire son dessein, comme illustré sur les patrons
 de cube ci-dessous.
 
-![Représentations de chemins géodésiques entre un sommet du cube et les autres sommets]({{ site.baseurl }}/assets/img/chemins-cube.png 'Représentations de chemins géodésiques entre un sommet du cube et les
-autres sommets')
+{% include image.html
+    alt = "Représentations de chemins géodésiques entre un sommet du cube et les autres sommets."
+    caption = 'Représentations de chemins géodésiques entre un sommet du cube et les
+    autres sommets.'
+%}
 
 (Ici, la fourmi est sur le sommet A, et on a dessiné des chemins qu'elle
 pourrait suivre pour aller sur les sommets B, C, D, E, F.)

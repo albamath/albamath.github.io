@@ -2,6 +2,7 @@
 title: 'Mon premier essai au SmallLab: Schneeflocke'
 ref: smalllabpremieressai
 date: 2016-01-23 15:16:51.000000000 +01:00
+img: schneeflocke-couleurs.jpg
 tags:
 - 3D
 - herwig-hauser-classic
@@ -20,4 +21,5 @@ Le [Small Lab](http://smalllab.proto204.co/) est le makerspace le plus proche de
 
 La surface fait environ 16 cm de diamètre et 1.8mm d’épaisseur. Voici le même modèle peint en en argent d'un côté et en bleu de l'autre:
 
-![La surface Schneeflocke imprimée en 3D et peinte avec de la peinture acrylique.]({{ site.baseurl }}/assets/img/schneeflocke-couleurs.jpg)
+{% include image.html
+alt = "La surface Schneeflocke imprimée en 3D et peinte avec de la peinture acrylique." %}

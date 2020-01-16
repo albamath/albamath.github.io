@@ -2,6 +2,7 @@
 title: Deuxième anniversaire (de thèse)
 ref: anniversaire2these
 date: 2016-12-14 11:01:24.000000000 +01:00
+img: le-train-de-la-vie.png
 tags:
 - société
 - systèmes dynamiques
@@ -24,7 +25,10 @@ Ces deux années m'ont marqué au moins autant que les trois ans de thèses : j'
 
 … aujourd'hui, j'ai encore du mal à penser à ma thèse sans qu'une tonne de souvenirs ne revienne et que la tristesse ne m’attrape. Tout de suite après sa mort, j'ai pensé à lui faire une exposition hommage, j'ai quelques idées en tête pour illustrer les mathématiques qu'il faisait, des modules à destination du grand public… j'ai aussi été rattrapée par la culpabilité - mon directeur de thèse était tellement célèbre et en même temps il m'a dédié tellement d'heures que je sens que pour lui faire justice il faudrait que j'aie une carrière académique impeccable - et pourtant, ce n'est pas vraiment le cas. Je devrais au moins publier mes articles de thèse. Mais quand je pense qu'il ne sera pas là pour le lire j'ai mal à l'esprit. N'importe comment, il faut que je le fasse…
 
-![Dessin à la craie sur un tableau representant un train à vapeur.]({{ site.baseurl }}/assets/img/le-train-de-la-vie.png 'Le train de la vie.')
+{% include image.html
+    alt = "Dessin à la craie sur un tableau representant un train à vapeur."
+    caption = 'Le train de la vie.'
+%}
 
 …le train de la vie va trop vite… même cet article qui aurait dû être
 beaucoup plus long finira là, tout de suite car il me faut préparer mon

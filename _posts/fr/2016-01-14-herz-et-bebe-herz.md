@@ -2,6 +2,7 @@
 title: Herz et bébé Herz
 ref: herzetbebeherz
 date: 2016-01-14 08:04:04.000000000 +01:00
+img: herz-et-bebe-herz.jpg
 tags:
 - 3D
 - 3d printing
@@ -12,7 +13,9 @@ tags:
 published: true
 ---
 
-[![La surface Herz en deux tailles. Son coloris est orangée. Les deux exemplaires sont posés sur un sapin et on aperçoit vaguement au fond un écran d&#39;ordinateur.]({{ site.baseurl }}/assets/img/herz-et-bebe-herz.jpg)]({{ site.baseurl }}/assets/img/herz-et-bebe-herz.jpg 'La surface Herz en taille "adulte" et en taille "bébé".')
+{% include image.html
+alt = "La surface Herz en deux tailles. Son coloris est orangée. Les deux exemplaires sont posés sur un sapin et on aperçoit vaguement au fond un écran d&#39;ordinateur."
+caption = 'La surface Herz en taille "adulte" et en taille "bébé".' %}
 
 Le modèle que je vous montrais il y a quelques jours a bien marché à l’impression! Je suis trop contente :D C’était aussi ma première avec 3DHubs que je recommande vivement.
 

@@ -2,6 +2,7 @@
 title: Les maths,  LaTeX et l'accessibilité numérique
 ref: latexaccessibiliteatelier
 date: 2016-02-14 00:46:18.000000000 +01:00
+img: exemple-de-latex-accessible.png
 tags:
 - apprentissage
 - software
@@ -54,7 +55,10 @@ bla bla
 ~~~
 
 Un exemple de document  $$\LaTeX$$ accessible produit avec ce code :
-![Dans cette image, on aperçoit un extrait d&#39;un corrigé d&#39;une feuille d&#39;exercices d&#39;algèbre linéaire. Cette feuille a été produite en suivante diverses recommendations d&#39;accessibilité : police sans empâtements, équations numérotées pour une meilleure navigation, interligne de un et demi, texte non justifié mais aligné à gauche.]({{ site.baseurl }}/assets/exemple-de-latex-accessible.png)
+
+{% include image.html
+alt = "Dans cette image, on aperçoit un extrait d&#39;un corrigé d&#39;une feuille d&#39;exercices d&#39;algèbre linéaire. Cette feuille a été produite en suivante diverses recommendations d&#39;accessibilité : police sans empâtements, équations numérotées pour une meilleure navigation, interligne de un et demi, texte non justifié mais aligné à gauche." %}
+
 
 Malheureusement ce code ne permet pas de répondre au soucis des images car  $$\LaTeX$$ n'a pas de moyen de rajouter une "description cachée" aux images. Mais html le permet! Dans html on peut definir une description alternative pour les images on ouvrant la balise comme suit: `<img src="..." alt="..." />` et c'est après `alt` qu'on inscrit la description. Notre formateur était de l'avis que pour un document  $$\LaTeX$$ contenant beaucoup d'images, le mieux est de l'exporter en html et de mettre les descriptions dans le html directement.
 

@@ -2,6 +2,7 @@
 title: Math mon modèle
 ref: mathmonmodele
 date: 2017-10-23 21:20:49.000000000 +02:00
+img: commeon_11.jpg
 tags:
 - 3D
 - blog
@@ -24,7 +25,10 @@ Voulez-vous voir l'affiche avec ma tête ? Mmm.... même si je tiens ce
 blog depuis quelques années déjà, je n'y avais jamais publié de
 photographie de moi même. Bam! Ça vient de changer.
 
-![Alba Málaga à côté du modèle 3D d'une cyclide]({{ site.baseurl }}/assets/img/commeon_11.jpg 'Affiche pour la campagne "Math mon modèle".')
+{% include image.html
+    alt = "Alba Málaga à côté du modèle 3D d'une cyclide"
+    caption = 'Affiche pour la campagne "Math mon modèle".'
+%}
 
 He, he, pour ceux qui ne m'ont pas vue depuis longtemps, voire jamais, cette image revèle en même temps quelques nouvelles :
 

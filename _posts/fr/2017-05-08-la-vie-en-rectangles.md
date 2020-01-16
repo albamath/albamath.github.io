@@ -2,6 +2,7 @@
 title: Ma vie en rectangles
 ref: vieentriangles
 date: 2017-05-08 17:39:32.000000000 +02:00
+img: ma-vie-en-rectangles-v0.png
 tags:
 - famille
 - migrations
@@ -13,7 +14,10 @@ Ma [grande soeur Lucía](http://lamalaga.com) avait écrit il y a quelques jours
 
 Nos chemins ont bifurqué il y a de cela 15 ans. On est toutes les deux parties de Cusco pour les études à peu-près à la même époque, il y a de cela quinze ans. Elle était partie en Europe, moi à Lima. J'ai donc décidé de refaire sa dernière figure de son article avec les lieux où j'ai vécu, moi. Ceci n'a pas exactement la même tête que les figures à Lucía - apparemment la commande `mutate_if` ne fait plus partie du namespace `dplyr` mais va savoir à quelle étape ça joue. Mais je ne vais pas deboguer ça maintenant. Je suis déjà contente d'avoir une figure, même si je n'arrive pas à l'inclure autrement que via une image (il y a une description textuelle plus bas.)
 
-![Visualisation des lieux où j'ai vécu, partagés de façon assez équilibrée entre la France, le Pérou et la Pologne."]({{ site.baseurl }}/assets/img/ma-vie-en-rectangles-v0.png 'Visualisation des lieux où j'ai vécu.')
+{% include image.html
+    alt = "Visualisation des lieux où j'ai vécu, partagés de façon assez équilibrée entre la France, le Pérou et la Pologne."
+    caption = "Visualisation des lieux où j'ai vécu."
+%}
 
 Voici les mêmes données dans un format non visuel (une liste). Je croise les doigts pour pouvoir bientôt y rajouter Limoges.
 

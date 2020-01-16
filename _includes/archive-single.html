@@ -48,15 +48,26 @@
     {%- else -%} {%- assign date_format = "%d/%m/%Y" -%}
     {%- endif -%}
 
+    {%- if schema == 'BlogPosting' -%}
       <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
         <meta itemprop="name" content="{{- site.author -}}"/>
         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
            <meta itemprop="url" content="{{- site.logo | absolute_url -}}" />
         </span>
       </span>
+      {%- if doc.img -%}
+        {%- assign imgfile = site.static_files | where:'name', doc.img | first -%}
+        {%- if imgfile -%}
+      <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="{{- imgfile.path | relative_url -}}"/>
+      </span>
+        {%- endif -%}
+      {%- endif -%}
       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
         <meta itemprop="name" content="{{- doc.author | default: site.author -}}">
       </span>
+    {%- endif -%}
+
       <span class="post-meta"><time datetime="{{- doc.date -}}" itemprop="datePublished">{{ doc.date | date: date_format }}</time></span>
 
   {%- endif -%}

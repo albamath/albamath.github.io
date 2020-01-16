@@ -2,6 +2,7 @@
 title: Strasbourg 2016 - partie 1
 ref: strasbourg2016
 date: 2016-11-27 11:43:14.000000000 +01:00
+img: doudou-cigogne-au-lit.jpg
 tags:
 - société
 - systèmes dynamiques
@@ -27,6 +28,9 @@ Pour finir, voici quelques photos de mon séjour à Strasbourg. Dites-moi dans l
 
 ![Vue partielle de la cathédrale strasbourgeoise. Au centre de la photographie on voit la fameuse rosette multicolore. Photo prise de nuit.]({{ site.baseurl }}/assets/img/catedral-strasbourg-1.jpg 'Cathédrale à Strasbourg')
 
-![Cigogne en peluche couchée sur un coussin blanc et sous une couette blanche. Le bec de la cigogne est rouge et énorme. Elle vous regarde de coté, le seul oeil visible vous envoie un regard malin]({{ site.baseurl }}/assets/img/doudou-cigogne-au-lit.jpg 'Doudou cigogne au lit.')
+{% include image.html
+    alt = "Cigogne en peluche couchée sur un coussin blanc et sous une couette blanche. Le bec de la cigogne est rouge et énorme. Elle vous regarde de coté, le seul oeil visible vous envoie un regard malin"
+    caption = 'Doudou cigogne au lit.'
+%}
 
 ![Énorme sapin de Noel, illuminé en bleu et blanc. Photo prise de nuit.]({{ site.baseurl }}/assets/img/grand-sapin-place-kleber.jpg 'Grand sapin de la place Kléber à Strasbourg')
