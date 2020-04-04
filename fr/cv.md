@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Curriculum vitæ"
+title: "Curriculum vitæ d'Alba Marina MÁLAGA SABOGAL"
 ref: cv
----
+...
 
 Études
 ------
 
 Doctorat de mathématiques, [Université Paris-Sud](http://www.u-psud.fr),
-2011–2014
-
+2011–2014  
 *«Étude d’une famille de transformations préservant la mesure de
 *ℤ* × *𝕋*»*  
 Thèse soutenue le 12 décembre 2014 à Orsay  
