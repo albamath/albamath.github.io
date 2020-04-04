@@ -20,7 +20,8 @@
         {%- if page.lang and pages -%}
           {%- for my_page in pages -%}
             {%- if my_page.title -%}
-        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape_once }}</a>
+              {%- capture mytitle -%}{%- if my_page.ref=="cv" -%} CV {%- else -%} my_page.title {%- endif -%}{%- endcapture -%}
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ mytitle | escape_once }}</a>
             {%- endif -%}
           {%- endfor -%}
         {%- else -%}
