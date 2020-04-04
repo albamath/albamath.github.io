@@ -1,8 +1,20 @@
 ---
 layout: page
-title: "Curriculum vitæ d'Alba Marina MÁLAGA SABOGAL"
+title: "Alba Marina MÁLAGA SABOGAL"
 ref: cv
 ...
+
+
+
+
+
+|-----:|:-----|-----:|:-----|
+
+
+
+
+
+
 
 Études
 ------
