@@ -4,8 +4,10 @@ title: "Alba Marina MÁLAGA SABOGAL"
 ref: cv
 ---
 
-Études
+Cursus et diplômes
 ------
+
+Agrégation externe spéciale de mathématiques, 2019 (rang 3ᵉ)
 
 Doctorat de mathématiques, [Université Paris-Sud](http://www.u-psud.fr),
 2011–2014  
