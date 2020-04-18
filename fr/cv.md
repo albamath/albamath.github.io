@@ -445,8 +445,7 @@ Langages maîtrisés : *Java, C++, Sage/Python*
 
 ## Langues
 
-<span>@p<span>0.58</span>@p<span>0.38</span>@</span> **Français** :
-pratique courante, certifiée par TCF & **Espagnol** : langue
-maternelle  
-**Anglais** : pratique courante, certifiée par TOEFL & **Polonais** :
-langue maternelle  
+**Français** : pratique courante, autrefois certifiée par TCF  
+**Anglais** : pratique courante, autrefois certifiée par TOEFL  
+**Espagnol** : langue maternelle  
+**Polonais** : langue maternelle
