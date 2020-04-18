@@ -12,7 +12,7 @@ Agrégation externe spéciale de mathématiques, 2019 (rang 3ᵉ)
 Doctorat de mathématiques, [Université Paris-Sud](http://www.u-psud.fr),
 2011–2014  
 *«Étude d’une famille de transformations préservant la mesure de
-*ℤ* × *𝕋*»*  
+ℤ × 𝕋»*  
 Thèse soutenue le 12 décembre 2014 à Orsay  
 Directeur de thèse : [Jean-Christophe
 Yoccoz](https://www.college-de-france.fr/site/jean-christophe-yoccoz/)
@@ -34,16 +34,16 @@ Expérience dans la recherche et l’enseignement supérieur
 
 2019–2020  
 Bourse post-doctorale à l’[ICERM](http://icerm.brown.edu), Providence,
-programme special “Illustrating Mathematics”
+programme spécial “Illustrating Mathematics”
 
 2017–2019  
 Ingénieure de recherche à l’[Inria](http://www.inria.fr), Paris
 
 2016–2017  
-ATER à l’[Université Paris 8](http://www.univ-paris8.fr), Saint-Denis
+ATER en mathématiques à l’[Université Paris 8](http://www.univ-paris8.fr), Saint-Denis
 
 2015–2016  
-ATER à l’[Université
+ATER en informatique à l’[Université
 Paris-Saclay](http://www.universite-paris-saclay.fr), Orsay
 
 2015  
