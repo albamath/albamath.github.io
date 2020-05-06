@@ -1,7 +1,7 @@
 ---
 title: J'ai déménagé au temps du coronavirus. Partie I: avant.
 ref: coronamove-before
-date: 2020-05-06 00:23:00.000000000 +02:00
+date: 2020-05-06 16:00:00.000000000 +02:00
 img: tom-friedman-circle-danse-2010.jpg
 excerpt: "Ce post est le premier d'une série racontant mon depart précipité des USA."
 tags:
