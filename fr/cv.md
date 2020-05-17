@@ -42,11 +42,11 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
     Ingénieure de recherche à l’[Inria](http://www.inria.fr), Paris
 
   - 2016–2017  
-    ATER en mathématiques à l’[Université Paris 8](http://www.univ-paris8.fr),
+    ATER en informatique à l’[Université Paris 8](http://www.univ-paris8.fr),
     Saint-Denis
 
   - 2015–2016  
-    ATER en informatique à l’[Université
+    ATER en mathématiques à l’[Université
     Paris-Saclay](http://www.universite-paris-saclay.fr), Orsay
 
   - 2015  
