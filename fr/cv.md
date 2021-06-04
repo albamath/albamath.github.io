@@ -32,7 +32,7 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
 
 ## Expérience dans la recherche et l’enseignement supérieur
 
-  - 2020–2021
+  - 2020–…
     Maîtresse de conférences à l’[Université de Lorraine](https://www.univ-lorraine.fr/),
     Nancy – Saint Dié des Vosges
   
@@ -268,8 +268,11 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Enseignement
 
-Le détail des heures est donné dans le chapitre «Activités
-d’enseignement» plus loin.
+[IUT de Saint-Dié](https://iutsd.univ-lorraine.fr), Saint Dié, 
+maîtresse de conférences depuis septembre 2020
+
+  - S1 MMI, Initiation à Worpdress
+  - S2 MMI, Systèmes d'information et bases de données
 
 [Université Paris 8](http://www.univ-paris8.fr), Saint-Denis, ATER
 Informatique, 2016 – 2017
