@@ -108,14 +108,9 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     Surfaces”*</span>,
     [HAL-02265283](https://hal.archives-ouvertes.fr/hal-02265283)
 
-  - En collaboration avec Samuel Lelièvre et Pierre Arnoux:
-    
-    <span>*“Polyhedral Flat Tori”*</span>, soumis à la conférence
-    [Bridges 2020](http://bridgesmathart.org/bridges-2020/).
-
   - Trois contributions d’une double page chacune au livre
     <span>*Illustrating mathematics*</span>,  
-    édité par Diana Davis, à paraître aux éditions de l’American
+    édité par Diana Davis, paru aux éditions de l’American
     Mathematical Society.
 
 ## Thèse et mémoire
