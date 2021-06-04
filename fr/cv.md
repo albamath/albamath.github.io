@@ -32,6 +32,14 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
 
 ## Expérience dans la recherche et l’enseignement supérieur
 
+  - 2020–2021
+    Maîtresse de conférences à l’[Université de Lorraine](https://www.univ-lorraine.fr/),
+    Nancy – Saint Dié des Vosges
+  
+  - été 2020
+    Ingénieure de recherche à l’[Université
+    Paris-Saclay](http://www.universite-paris-saclay.fr), Gif-sur-Yvette
+
   - 2019–2020  
     Bourse post-doctorale à l’[ICERM](http://icerm.brown.edu),
     Providence (États-Unis)  
@@ -128,6 +136,18 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
+  - <span>[Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05)</span>,
+    Toulouse, 05/03/2021
+    
+  - <span>[SoS Seminar](https://members.loria.fr/Monique.Teillaud/collab/SoS/#seminar)</span>,
+    en ligne, 12/02/2021
+    
+  - <span>[Ergodic Theory and Dynamical Systems Seminar](https://www.math.uzh.ch/index.php?id=ve_mfs_sem_vor0&key1=0&key2=1318&key3=4647)</span>,
+    en ligne, 02/11/2020
+    
+  - <span>[Séminaire Deducteam](https://deducteam.gitlabpages.inria.fr/seminars/201001.html)</span>,
+    Gif-sur-Yvette, 01/10/2020
+    
   - <span>[*Brown University Geometry/Topology*
     Seminar](https://www.math.brown.edu/~res/seminar.html)</span>,
     Providence (États-Unis), 26/02/2020
@@ -203,9 +223,17 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     Orsay, 18/11/2013
 
 ## Exposés à des colloques
-
-  - [*Outils logiciels pour les mathématiques et
-    l’illustration*](https://wiki.sagemath.org/days107), Orsay,
+  
+  - <span>[*Global Virtual SageDays 110*](https://researchseminars.org/seminar/SageDays110)</span>, 
+    en ligne,
+    29/10/2020
+    
+  - <span>[*6ta ConMate-P*](https://www.amarun.net/index.php/espacio-noticias/98-noticias-2020/578-6ta-conmate-p-2020-programa)</span>, 
+    Paris,
+    09/10/2020
+    
+  - <span>[*Outils logiciels pour les mathématiques et
+    l’illustration*](https://wiki.sagemath.org/days107)</span>, Orsay,
     21/02/2020
 
   - <span>[*IX Congreso Internacional sobre enseñanza de las
