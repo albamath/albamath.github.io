@@ -131,6 +131,10 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
+  - [HEGL Community Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099), Heidelberg, 28/11/2022
+
+  - ...
+
   - <span>[Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05)</span>,
     Toulouse, 05/03/2021
     
