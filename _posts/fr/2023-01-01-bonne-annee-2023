@@ -1,0 +1,20 @@
+---
+ref: bonneannee2023
+title:  "Bonne année 2023"
+date: 2023-01-01 00:00:00.000000000 +01:00
+img: tore-plat-18-sommets.png
+excerpt: "Je suis encore là."
+tags:
+- annonce
+- bilan
+published: true
+---
+
+Voici une image d'un des objets que j'ai réalisé en 2022,
+dans le cadre des travaux que je mène avec Samuel Lelièvre et Pierre Arnoux autour
+de réalisations polyèdrales de tores plats.
+
+{% include image.html
+    alt = "tore polyédral en papier"
+    caption = "Tore plat carré polyèdral à 18 sommets, découpé en papier avec Samuel Lelièvre."
+%}
