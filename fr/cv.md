@@ -190,7 +190,7 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     Systems*](http://www.bristol.ac.uk/maths/events/2017/etds-malaga.html)</span>,
     Bristol (Royaume-Uni), 06/04/2017
 
-  - Séminaire de *Protection de l’information*, Saint-Denis, 23/04/2017
+  - Séminaire de *Protection de l’information*, Saint-Denis, 23/04/2016
 
   - [Séminaire de *Géométrie et Systèmes
     Dynamiques*](http://math.u-bourgogne.fr/spip.php?page=jour&date=2015-11-19),
