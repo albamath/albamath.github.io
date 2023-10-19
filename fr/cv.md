@@ -131,8 +131,18 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
-  - [HEGL Community Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099), Heidelberg, 28/11/2022
+  - [Seminarium Układy Dynamiczne](dynsys.im.uj.edu.pl/archiwum.php),
+    Cracovie, 4/11/2022
+  
+  - [HEGL Community Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099),
+    Heidelberg, 28/11/2022
 
+  - [Séminaire de géométrie](https://www.math.u-bordeaux.fr/imb/seminaire-geometrie?year=2022),
+    Bordeaux, 15/04/2022
+
+  - [Séminaire Francophone Groupes et Géométrie](https://www-fourier.univ-grenoble-alpes.fr/seminaire-gg/?q=node/64),
+    en ligne, 18/11/2021
+    
   - [Séminaire Commun de Géométrie](https://iecl.univ-lorraine.fr/events/categories/geometrie/seminaire-de-geometrie-differentielle/?pno=3),
     Nancy, 15/11/2021
 
@@ -424,6 +434,11 @@ publiques de l’œuvre:
 «Diplotores, une famille de tores plats polyèdraux»  
 au congrès MATh.en.JEANS,
 Mulhouse, 26/05/2023
+
+Exposé pour lycéens au stage
+« Les maths, de l'Espace aux espaces »
+de l'association Science Ouverte
+Paris, 28/02/2023
 
 «Iniciación a la geometría hiperbólica»  
 au IX Seminario de divulgación matemática (FC-UNI),
