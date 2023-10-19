@@ -271,6 +271,16 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     dynamiques*](http://www.cirm-math.fr/RepRenc/1097/Prog1097.pdf),
     Marseille, 26/11/2013
 
+## Organisation de rencontres
+
+- [Fabrikathon d'objets mathématiques](https://kits.math.cnrs.fr/node/53),
+  co-organisé avec Laurent Dupont et Samuel Tapie,
+  Nancy, 25-28/11/2023
+
+- [Outils logiciels pour les mathématiques et l'illustration
+  (Journées Sage 107)](https://wiki.sagemath.org/days107),
+  co-organisé avec Samuel Lelièvre, Eric Gourgoulhon et Camille Labourie
+
 ## Enseignement
 
 [IUT de Saint-Dié](https://iutsd.univ-lorraine.fr), Saint Dié, 
@@ -396,7 +406,7 @@ publiques de l’œuvre:
 
   - tutoriels d'Inkscape (avec S. Lelièvre) et Blender (avec A. Chéritat) au
     [CharlyLab](https://iut-charlemagne.univ-lorraine.fr/presentation/services-communs/),
-    dans le cadre d'un Fabrikathon Mathématique
+    pour un [Fabrikathon](https://kits.math.cnrs.fr/node/53),
     Nancy, 25/04/2023
     
   - Atelier de réalisation de surfaces paramétrées, au
@@ -408,7 +418,12 @@ publiques de l’œuvre:
     [AIMS-IMAGINARY](https://imaginary.org/fr/event/aims-imaginary-atelier-et-exposition-des-mathematiques-et-des-sciences),
     M’Bour (Sénégal), 2–5/11/2015
 
-### Exposé à destination du grand public
+### Exposés à destination du grand public
+
+«Comment rester discret dans une galerie de miroirs…»  
+au [festival *Les maths dans tous leurs
+états*](http://lesmathsenscene.fr/festival/soirees/), Castanet Tolosan,
+17/03/2018
 
 «Comment rester discret dans une galerie de miroirs…»  
 au [festival *Les maths dans tous leurs
