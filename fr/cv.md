@@ -444,6 +444,9 @@ mathématiques*](http://www.ihp.fr/fr/fr/production-films/2016)
 
 ### Web
 
+  - Quelques contributions sur [kits.math.cnrs.fr](http://kits.math.cnrs.fr)
+    (exhibits et annonces d’événements).
+    
   - Quelques contributions sur [imaginary.org](http://www.imaginary.org)
     (exhibits et annonces d’événements).
 
