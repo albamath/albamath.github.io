@@ -234,14 +234,18 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés à des colloques
   
+  - [2nd Joint Congress of Mathematics](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10),
+    Grenoble,
+    22/07/2022
+ 
   - <span>[*Global Virtual SageDays 110*](https://researchseminars.org/seminar/SageDays110)</span>, 
     en ligne,
     29/10/2020
-    
+ 
   - <span>[*6ta ConMate-P*](https://www.amarun.net/index.php/espacio-noticias/98-noticias-2020/578-6ta-conmate-p-2020-programa)</span>, 
     Paris,
     09/10/2020
-    
+  
   - <span>[*Outils logiciels pour les mathématiques et
     l’illustration*](https://wiki.sagemath.org/days107)</span>, Orsay,
     21/02/2020
