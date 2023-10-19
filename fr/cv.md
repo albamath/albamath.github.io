@@ -437,10 +437,10 @@ demi-journée à quatre jours.
 
 J’interviens dans le film suivant consacré à Patrice Jeener:
 
-[Quentin Lazzarotto](https://www.nebuleuseprod.com/) (réalisateur). [*Le
+[Quentin Lazzarotto](https://lazza.film/) (réalisateur). [*Le
 graveur de
-mathématiques*](http://www.ihp.fr/fr/fr/production-films/2016)
-<span>\[</span>DVD<span>\]</span>. IHP, 2016, 26 minutes.
+mathématiques*](https://www.ihp.fr/fr/le-graveur-de-mathematiques-patrice-jeener)
+\[DVD\]. IHP, 2016, 26 minutes.
 
 ### Web
 
