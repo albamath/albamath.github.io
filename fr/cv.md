@@ -133,7 +133,8 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
   - [HEGL Community Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099), Heidelberg, 28/11/2022
 
-  - ...
+  - [Séminaire Commun de Géométrie](https://iecl.univ-lorraine.fr/events/categories/geometrie/seminaire-de-geometrie-differentielle/?pno=3),
+    Nancy, 15/11/2021
 
   - <span>[Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05)</span>,
     Toulouse, 05/03/2021
@@ -275,8 +276,9 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 [IUT de Saint-Dié](https://iutsd.univ-lorraine.fr), Saint Dié, 
 maîtresse de conférences depuis septembre 2020
 
-  - S1 MMI, Initiation à Worpdress
+  - S2 MMI, Initiation à Worpdress
   - S2 MMI, Systèmes d'information et bases de données
+  - S6 MMI, Réalité virtuelle
 
 [Université Paris 8](http://www.univ-paris8.fr), Saint-Denis, ATER
 Informatique, 2016 – 2017
@@ -328,6 +330,13 @@ doctorante-monitrice puis postdoc enseignante, 2014
 ### Expositions (organisatrice et/ou médiatrice)
 
 Avec *IMAGINARY France*:
+
+  - stand au [festival *Printemps de mathématiques*]
+    (http://lesmathsenscene.fr/festival/), Castanet Tolosan, 23
+    – 25 mars 2023
+    
+  - stand au [23ème salon Culture et Jeux
+    Mathématiques](http://www.cijm.org/), Paris, 1 – 4 juin 2022
 
   - stand au [20ème salon Culture et Jeux
     Mathématiques](http://www.cijm.org/), Paris, 23 – 26 mai 2019
@@ -385,6 +394,11 @@ publiques de l’œuvre:
 
 ### Ateliers
 
+  - tutoriels d'Inkscape (avec S. Lelièvre) et Blender (avec A. Chéritat) au
+    [CharlyLab](https://iut-charlemagne.univ-lorraine.fr/presentation/services-communs/),
+    dans le cadre d'un Fabrikathon Mathématique
+    Nancy, 25/04/2023
+    
   - Atelier de réalisation de surfaces paramétrées, au
     [SmallLab](http://proto204.co/portfolio/atelier-impression-3d-surfaces-parametriques/photo-alba3d-math/),
     Bures-sur-Yvette, 29/02/2016
@@ -445,7 +459,7 @@ mathématiques*](https://www.ihp.fr/fr/le-graveur-de-mathematiques-patrice-jeene
 ### Web
 
   - Quelques contributions sur [kits.math.cnrs.fr](http://kits.math.cnrs.fr)
-    (exhibits et annonces d’événements).
+    (exhibits).
     
   - Quelques contributions sur [imaginary.org](http://www.imaginary.org)
     (exhibits et annonces d’événements).
