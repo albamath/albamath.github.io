@@ -234,9 +234,13 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés à des colloques
   
-  - [2nd Joint Congress of Mathematics](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10),
+    
+  - [*2nd Joint Congress of Mathematics*](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10),
     Grenoble,
     22/07/2022
+
+  - [*Gathering for Gardner 14*](https://www.youtube.com/watch?v=jhpA_fZufd0)
+    en ligne, 08/04/2022
  
   - <span>[*Global Virtual SageDays 110*](https://researchseminars.org/seminar/SageDays110)</span>, 
     en ligne,
