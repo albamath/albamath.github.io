@@ -406,7 +406,7 @@ publiques de l’œuvre:
 
   - tutoriels d'Inkscape (avec S. Lelièvre) et Blender (avec A. Chéritat) au
     [CharlyLab](https://iut-charlemagne.univ-lorraine.fr/presentation/services-communs/),
-    pour un [Fabrikathon](https://kits.math.cnrs.fr/node/53),
+    dans le cadre d'un [fabrikathon d'objets mathématiques](https://kits.math.cnrs.fr/node/53),
     Nancy, 25/04/2023
     
   - Atelier de réalisation de surfaces paramétrées, au
@@ -420,15 +420,22 @@ publiques de l’œuvre:
 
 ### Exposés à destination du grand public
 
-«Comment rester discret dans une galerie de miroirs…»  
-au [festival *Les maths dans tous leurs
-états*](http://lesmathsenscene.fr/festival/soirees/), Castanet Tolosan,
-17/03/2018
+«Diplotores, une famille de tores plats polyèdraux»  
+au congrès MATh.en.JEANS,
+Mulhouse, 26/05/2023
+
+«Iniciación a la geometría hiperbólica»  
+au IX Seminario de divulgación matemática (FC-UNI),
+en ligne, 24/06/2022
+
+«Avances recientes en el estudio de toros planos como poliedros»  
+au VIII Seminario de divulgación matemática (FC-UNI),
+en ligne, 21/10/2021
 
 «Comment rester discret dans une galerie de miroirs…»  
 au [festival *Les maths dans tous leurs
-états*](http://lesmathsenscene.fr/festival/soirees/), Castanet Tolosan,
-17/03/2018
+états*](http://lesmathsenscene.fr/festival/soirees/),
+Castanet Tolosan, 17/03/2018
 
 ### Fêtes de la Science, forums et salons
 
