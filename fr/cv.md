@@ -40,37 +40,37 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
     Ingénieure de recherche à l’[Université
     Paris-Saclay](http://www.universite-paris-saclay.fr), Gif-sur-Yvette
 
-  - 2019–2020  
+  - 2019–2020
     Bourse post-doctorale à l’[ICERM](http://icerm.brown.edu),
     Providence (États-Unis)  
     dans le cadre du programme special <span>“Illustrating
     Mathematics”</span>
 
-  - 2017–2019  
+  - 2017–2019
     Ingénieure de recherche à l’[Inria](http://www.inria.fr), Paris
 
-  - 2016–2017  
+  - 2016–2017
     ATER en informatique à l’[Université Paris 8](http://www.univ-paris8.fr),
     Saint-Denis
 
-  - 2015–2016  
+  - 2015–2016
     ATER en mathématiques à l’[Université
     Paris-Saclay](http://www.universite-paris-saclay.fr), Orsay
 
-  - 2015  
+  - 2015
     Bourse post-doctorale à l’[Aix-Marseille
     Université](http://www.univ-amu.fr), Marseille,  
     financée par le projet AM\*IDEX d’Alexander Bufetov
 
-  - 2011–2014  
+  - 2011–2014
     Contrat doctoral à l’[Université Paris-Sud](http://www.u-psud.fr),
     Orsay
 
-  - 2011  
+  - 2011
     Stage de recherche à l’[École Normale
     Supérieure](http://www.ens.fr/), Paris
 
-  - 2008  
+  - 2008
     Chargée de travaux dirigés à l’[Universidad Nacional de
     Ingeniería](http://www.uni.edu.pe), Lima (Pérou)
 
