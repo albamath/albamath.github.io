@@ -331,8 +331,8 @@ doctorante-monitrice puis postdoc enseignante, 2014
 
 Avec *IMAGINARY France*:
 
-  - stand au [festival *Printemps de mathématiques*]
-    (http://lesmathsenscene.fr/festival/), Castanet Tolosan, 23
+  - stand au [festival *Printemps de mathématiques*
+    ](http://lesmathsenscene.fr/festival/), Castanet Tolosan, 23
     – 25 mars 2023
     
   - stand au [23ème salon Culture et Jeux
