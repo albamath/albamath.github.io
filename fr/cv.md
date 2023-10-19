@@ -274,12 +274,13 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 ## Organisation de rencontres
 
 - [Fabrikathon d'objets mathématiques](https://kits.math.cnrs.fr/node/53),
-  co-organisé avec Laurent Dupont et Samuel Tapie,
+  co-organisé avec Laurent Dupont et Samuel Tapie,  
   Nancy, 25-28/11/2023
 
 - [Outils logiciels pour les mathématiques et l'illustration
   (Journées Sage 107)](https://wiki.sagemath.org/days107),
-  co-organisé avec Samuel Lelièvre, Eric Gourgoulhon et Camille Labourie
+  co-organisé avec Samuel Lelièvre, Eric Gourgoulhon et Camille Labourie,
+  Orsay, 17-21/02/2020
 
 ## Enseignement
 
