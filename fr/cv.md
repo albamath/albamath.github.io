@@ -43,8 +43,8 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
   - 2019–2020
     Bourse post-doctorale à l’[ICERM](http://icerm.brown.edu),
     Providence (États-Unis)  
-    dans le cadre du programme special <span>“Illustrating
-    Mathematics”</span>
+    dans le cadre du programme special “Illustrating
+    Mathematics”
 
   - 2017–2019
     Ingénieure de recherche à l’[Inria](http://www.inria.fr), Paris
@@ -79,7 +79,7 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
 Articles en collaboration avec Serge Troubetzkoy, disponibles sur
 l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
-  - <span>*“Minimality of the Ehrenfest wind-tree model”*</span>,
+  - *“Minimality of the Ehrenfest wind-tree model”*,
     [HAL-01158924](https://hal.archives-ouvertes.fr/hal-01158924),  
     Journal of Modern Dynamics, Volume 10 (2016), pp. 209–228.
 
@@ -88,13 +88,13 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     C. R. Math. Acad. Sci. Paris, Volume 354, Numéro 10 (2016), pp.
     1032–1036.
 
-  - <span>*“Weakly mixing polygonal billiards”*</span>,
+  - *“Weakly mixing polygonal billiards”*,
     [HAL-01304088](https://hal.archives-ouvertes.fr/hal-01304088),  
     Bulletin of the London Mathematical Society, Volume 49 (2017), pp.
     141–147.
 
-  - <span>*“Infinite ergodic index of the Ehrenfest wind-tree
-    model”*</span>,
+  - *“Infinite ergodic index of the Ehrenfest wind-tree
+    model”*,
     [HAL-01433019](https://hal.archives-ouvertes.fr/hal-01433019),  
     Communications in Mathematical Physics, Volume 358 (2018), pp.
     995–1006.
@@ -104,12 +104,12 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - En collaboration avec Serge Troubetzkoy, disponible sur l’archive
     ouverte [HAL](https://hal.archives-ouvertes.fr/).
     
-    <span>*“Unique ergodicity for infinite area Translation
-    Surfaces”*</span>,
+    *“Unique ergodicity for infinite area Translation
+    Surfaces”*,
     [HAL-02265283](https://hal.archives-ouvertes.fr/hal-02265283)
 
   - Trois contributions d’une double page chacune au livre
-    <span>*Illustrating mathematics*</span>,  
+    *Illustrating mathematics*,  
     édité par Diana Davis, paru aux éditions de l’American
     Mathematical Society.
 
@@ -146,48 +146,48 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - [Séminaire Commun de Géométrie](https://iecl.univ-lorraine.fr/events/categories/geometrie/seminaire-de-geometrie-differentielle/?pno=3),
     Nancy, 15/11/2021
 
-  - <span>[Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05)</span>,
+  - [Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05),
     Toulouse, 05/03/2021
     
-  - <span>[SoS Seminar](https://members.loria.fr/Monique.Teillaud/collab/SoS/#seminar)</span>,
+  - [SoS Seminar](https://members.loria.fr/Monique.Teillaud/collab/SoS/#seminar),
     en ligne, 12/02/2021
     
-  - <span>[Ergodic Theory and Dynamical Systems Seminar](https://www.math.uzh.ch/index.php?id=ve_mfs_sem_vor0&key1=0&key2=1318&key3=4647)</span>,
+  - [Ergodic Theory and Dynamical Systems Seminar](https://www.math.uzh.ch/index.php?id=ve_mfs_sem_vor0&key1=0&key2=1318&key3=4647),
     en ligne, 02/11/2020
     
-  - <span>[Séminaire Deducteam](https://deducteam.gitlabpages.inria.fr/seminars/201001.html)</span>,
+  - [Séminaire Deducteam](https://deducteam.gitlabpages.inria.fr/seminars/201001.html),
     Gif-sur-Yvette, 01/10/2020
     
-  - <span>[*Brown University Geometry/Topology*
-    Seminar](https://www.math.brown.edu/~res/seminar.html)</span>,
+  - [*Brown University Geometry/Topology*
+    Seminar](https://www.math.brown.edu/~res/seminar.html),
     Providence (États-Unis), 26/02/2020
 
-  - <span>[*Complex Analysis and Dynamics*
-    Seminar](https://qcpages.qc.cuny.edu/~zakeri/seminar.html)</span>,
+  - [*Complex Analysis and Dynamics*
+    Seminar](https://qcpages.qc.cuny.edu/~zakeri/seminar.html),
     New York (États-Unis), 14/02/2020
 
-  - <span>[*Tufts Math Dynamics and Probability*
-    Seminar](https://sites.tufts.edu/dynsyssem/)</span>, Medford
+  - [*Tufts Math Dynamics and Probability*
+    Seminar](https://sites.tufts.edu/dynsyssem/), Medford
     (États-Unis), 22/11/2019
 
-  - <span>[IM ICERM *Special Interest*
-    Seminar](https://icerm.brown.edu/programs/sp-f19/)</span>,
+  - [IM ICERM *Special Interest*
+    Seminar](https://icerm.brown.edu/programs/sp-f19/),
     Providence (États-Unis), 20/11/2019
 
   - [Séminario del
     *IMCA*](http://imca.edu.pe/jpalacios/seminario_IMCA_2018.html), Lima
     (Pérou), 24/07/2018
 
-  - <span>[*Applied Math*
+  - [*Applied Math*
     Seminar](http://www.math.auckland.ac.nz/Directory/jahia/seminar/?item=2295),
-    Auckland</span> (Nouvelle Zélande), 09/05/2018
+    Auckland (Nouvelle Zélande), 09/05/2018
 
   - [Séminaire de *Systèmes dynamiques, analyse et
     géométrie*](http://math.univ-avignon.fr/fr/print/mini-site/minimaths/seminaire-25.html),
     Avignon, 16/05/2017
 
-  - <span>[*Ergodic Theory and Dynamical
-    Systems*](http://www.bristol.ac.uk/maths/events/2017/etds-malaga.html)</span>,
+  - [*Ergodic Theory and Dynamical
+    Systems*](http://www.bristol.ac.uk/maths/events/2017/etds-malaga.html),
     Bristol (Royaume-Uni), 06/04/2017
 
   - Séminaire de *Protection de l’information*, Saint-Denis, 23/04/2016
@@ -242,20 +242,20 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - [*Gathering for Gardner 14*](https://www.youtube.com/watch?v=jhpA_fZufd0)
     en ligne, 08/04/2022
  
-  - <span>[*Global Virtual SageDays 110*](https://researchseminars.org/seminar/SageDays110)</span>, 
+  - [*Global Virtual SageDays 110*](https://researchseminars.org/seminar/SageDays110), 
     en ligne,
     29/10/2020
  
-  - <span>[*6ta ConMate-P*](https://www.amarun.net/index.php/espacio-noticias/98-noticias-2020/578-6ta-conmate-p-2020-programa)</span>, 
+  - [*6ta ConMate-P*](https://www.amarun.net/index.php/espacio-noticias/98-noticias-2020/578-6ta-conmate-p-2020-programa), 
     Paris,
     09/10/2020
   
-  - <span>[*Outils logiciels pour les mathématiques et
-    l’illustration*](https://wiki.sagemath.org/days107)</span>, Orsay,
+  - [*Outils logiciels pour les mathématiques et
+    l’illustration*](https://wiki.sagemath.org/days107), Orsay,
     21/02/2020
 
-  - <span>[*IX Congreso Internacional sobre enseñanza de las
-    Matemáticas*](http://indico.pucp.edu.pe/event/3/overview)</span>,
+  - [*IX Congreso Internacional sobre enseñanza de las
+    Matemáticas*](http://indico.pucp.edu.pe/event/3/overview),
     Huancavelica (Pérou), 19/07/2018
 
   - [*Dynamique en mesure
@@ -269,20 +269,20 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - Lancement du projet *Probabilités & Approximations Diophantiennes*,
     Marseille, 15/12/2015
 
-  - <span>[*Ergodic Theory of Dynamical
-    Systems*](http://simons.mat.umk.pl/pages/program.html)</span>,
+  - [*Ergodic Theory of Dynamical
+    Systems*](http://simons.mat.umk.pl/pages/program.html),
     Będlewo (Pologne), 22/11/2015
 
-  - <span>[*School and Conference on Dynamical
-    Systems*](http://indico.ictp.it/event/a14293/other-view?view=ictptimetable)</span>,
+  - [*School and Conference on Dynamical
+    Systems*](http://indico.ictp.it/event/a14293/other-view?view=ictptimetable),
     Trieste (Italie), 6/8/2015
 
   - [*Forum des jeunes
     mathématicien-ne-s*](http://www.femmes-et-maths.fr/?p=2015), Paris,
     18/10/2014
 
-  - <span>[*ICM2014 Satellite Conference on Dynamical Systems and
-    Related Topics*](http://icm2014.cnu.ac.kr/)</span>, Daejeon (Corée),
+  - [*ICM2014 Satellite Conference on Dynamical Systems and
+    Related Topics*](http://icm2014.cnu.ac.kr/), Daejeon (Corée),
     11/8/2014
 
   - [*Parole aux jeunes chercheurs en systèmes
