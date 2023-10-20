@@ -131,31 +131,31 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
-  - [Seminarium Układy Dynamiczne](dynsys.im.uj.edu.pl/archiwum.php),
+  - [Seminarium *Układy Dynamiczne*](dynsys.im.uj.edu.pl/archiwum.php),
     Cracovie, 4/11/2022
   
-  - [HEGL Community Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099),
+  - [*HEGL Community* Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099),
     Heidelberg, 28/11/2022
 
-  - [Séminaire de géométrie](https://www.math.u-bordeaux.fr/imb/seminaire-geometrie?year=2022),
+  - [Séminaire de *géométrie*](https://www.math.u-bordeaux.fr/imb/seminaire-geometrie?year=2022),
     Bordeaux, 15/04/2022
 
-  - [Séminaire Francophone Groupes et Géométrie](https://www-fourier.univ-grenoble-alpes.fr/seminaire-gg/?q=node/64),
+  - [*Séminaire Francophone Groupes et Géométrie*](https://www-fourier.univ-grenoble-alpes.fr/seminaire-gg/?q=node/64),
     en ligne, 18/11/2021
     
-  - [Séminaire Commun de Géométrie](https://iecl.univ-lorraine.fr/events/categories/geometrie/seminaire-de-geometrie-differentielle/?pno=3),
+  - [Séminaire commun de *géométrie*](https://iecl.univ-lorraine.fr/events/categories/geometrie/seminaire-de-geometrie-differentielle/?pno=3),
     Nancy, 15/11/2021
 
-  - [Séminaire de systèmes dynamiques](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05),
+  - [Séminaire de *systèmes dynamiques*](https://www.math.univ-toulouse.fr/spip.php?article442&lang=fr&date_debut=2021-03-05),
     Toulouse, 05/03/2021
     
-  - [SoS Seminar](https://members.loria.fr/Monique.Teillaud/collab/SoS/#seminar),
+  - [*SoS* Seminar](https://members.loria.fr/Monique.Teillaud/collab/SoS/#seminar),
     en ligne, 12/02/2021
     
-  - [Ergodic Theory and Dynamical Systems Seminar](https://www.math.uzh.ch/index.php?id=ve_mfs_sem_vor0&key1=0&key2=1318&key3=4647),
+  - [*Ergodic Theory and Dynamical Systems* Seminar](https://www.math.uzh.ch/index.php?id=ve_mfs_sem_vor0&key1=0&key2=1318&key3=4647),
     en ligne, 02/11/2020
     
-  - [Séminaire Deducteam](https://deducteam.gitlabpages.inria.fr/seminars/201001.html),
+  - [Séminaire *Deducteam*](https://deducteam.gitlabpages.inria.fr/seminars/201001.html),
     Gif-sur-Yvette, 01/10/2020
     
   - [*Brown University Geometry/Topology*
