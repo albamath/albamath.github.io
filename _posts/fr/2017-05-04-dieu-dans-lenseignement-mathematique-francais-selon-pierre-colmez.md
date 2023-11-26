@@ -19,4 +19,4 @@ Lu dans [Éléments d'analyse et d'algèbre](http://www.editions.polytechnique.f
 
 C'était le livre de référence pour le premier cours de mathématiques que j'ai suivi en France. Pendant un moment c'était donc un livre de chevet pour moi. Si vous voulez avoir plus de son style hilarant, cherchez sa lettre de départ de l'École polytechnique, elle doit encore être disponible quelque part sur le net.
 
-C'est un très beau livre, et un des rares dont je possède un exemplaire dédicacé. En effet, à l'époque où je vivais encore au Pérou, j'avais l'habitude de demander une dedicace orthographié aux célébrités mathématiques qui passaient de temps en temps. En France j'ai assez vite arrêté de le faire.
+C'est un très beau livre, et un des rares dont je possède un exemplaire dédicacé. En effet, à l'époque où je vivais encore au Pérou, j'avais l'habitude de demander une dedicace aux célébrités mathématiques qui passaient de temps en temps. En France j'ai assez vite arrêté de le faire.
