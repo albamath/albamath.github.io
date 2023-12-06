@@ -1,0 +1,29 @@
+---
+title: Mon pentagone préféré est régulier à angles droits
+ref: pentafav
+date: 2023-12-06 11:35:03.000000000 +01:00
+img: penta-on-ps-sapin.jpg
+tags:
+- 3D
+- 3d printing
+published: true
+---
+
+Les mathématiciens sont des humains comme les autres.
+Nous avons des préférences, souvent arbitraires, et ses préférences influenceront ce qu'on fait dans notre vie à petite échelle (la vie de tous les jours) et à grande échelle.
+
+Chez moi, j'ai un doudou icosaèdre régulier rempli de dés, et je me fache si on me le pique.
+J'ai un groupe préferé, SL(2,ℤ), et dans la galérie de singularités de Herwig Hauser mon exemple préféré est Kolibri...
+
+Desormais, j'ai aussi mon pentagonde préféré.
+Il est régulier à angles droits.
+Sur les photos, il apparaît sur une pseudosphère, je vous partagerais bientôt ce que ça donne en papier recyclé.
+
+{% include image.html
+alt = "Pentagone régulier à angles droits sur pseudosphère. Son coloris est blanc sur fond bleu. Posés sur un sapin.."
+caption = 'Un pentagone régulier à angles droits dessiné sur un bout de pseudosphère.' %}
+
+J'avais envie de le produire depuis longtemps, inspirée par l'article ["Folding the Hyperbolic Crane"](https://langorigami.com/publication/folding-the-hyperbolic-crane/)
+et par les explorations de [papier hyperbolique qu'on avaient faites avec Stepan et Aaron](https://im.icerm.brown.edu/portfolio/hyperbolic-paper/).
+Je voulais faire la grue à deux têtes en papier hyperbolique, comme dans cet article, j'ai réussi à le faire la semaine dernière à la rencontre Mathématiques et Art.
+C'était trop bien... le CIRM me manque déjà.
