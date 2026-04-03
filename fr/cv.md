@@ -322,6 +322,7 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 maîtresse de conférences depuis septembre 2020
 
   - S2 MMI, Initiation à Worpdress
+  - S4 MMI, Responsivité web avec CSS Grid et SASS
   - S2 MMI, Systèmes d'information et bases de données
   - S6 MMI, Réalité virtuelle
 
