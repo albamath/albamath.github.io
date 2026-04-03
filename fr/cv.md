@@ -452,6 +452,9 @@ publiques de l’œuvre:
 
 ### Exposés à destination du grand public
 
+Exposé pour lycéens au stage « Histoire des sciences » de l’association Science Ouverte,
+Paris, 26/02/2026
+
 «Exposé de géométrie, sur la courbure, illustré par des objets et du papier hyperbolique»
 conférence de clôture au congrès MATh.en.JEANS,
 Montpellier, 03/05/2024 
