@@ -135,6 +135,9 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
+  - [Colloquium de l'*IRIMAS*](https://irimas.math.cnrs.fr/seminaire-et-colloquium/#elementor-tab-title-9401),
+    Mulhouse, 18/01/2024
+
   - [*HEGL Community* Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099),
     Heidelberg, 28/11/2022
   
