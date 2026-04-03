@@ -138,8 +138,8 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - Séminaire [*Illustrating Mathematics*](https://indico.math.cnrs.fr/event/13123/contributions/15449/)
     Paris, 17/03/2026
 
-  - Séminaire *Papier \& ciseaux*
-    Paris, 04/03/2026
+  - [Séminaire francilien de *géométrie algorithmique et combinatoire*](https://monge.univ-mlv.fr/~hubard/GAC/prev_GAC.html)
+     Paris, 20/11/2025
 
   - [Colloquium de l'*IRIMAS*](https://irimas.math.cnrs.fr/seminaire-et-colloquium/#elementor-tab-title-9401),
     Mulhouse, 18/01/2024
