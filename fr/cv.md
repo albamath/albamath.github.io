@@ -104,15 +104,14 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     Communications in Mathematical Physics, Volume 358 (2018), pp.
     995–1006.
 
-## Prépublications et articles soumis
-
-  - En collaboration avec Serge Troubetzkoy, disponible sur l’archive
-    ouverte [HAL](https://hal.archives-ouvertes.fr/).
-    
-    *“Unique ergodicity for infinite area Translation
+  - *“Unique ergodicity for infinite area Translation
     Surfaces”*,
     [HAL-02265283](https://hal.archives-ouvertes.fr/hal-02265283)
+    Nonlinearity, 2025, 38 (6), pp.065014. 
 
+
+## Chapitre de livre
+    
   - Trois contributions d’une double page chacune au livre
     *Illustrating mathematics*,  
     édité par Diana Davis, paru aux éditions de l’American
