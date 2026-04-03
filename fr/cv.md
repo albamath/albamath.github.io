@@ -114,8 +114,8 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
     
   - Trois contributions d’une double page chacune au livre
     *Illustrating mathematics*,  
-    édité par Diana Davis, paru aux éditions de l’American
-    Mathematical Society.
+    édité par Diana Davis, paru aux éditions de l’[American
+    Mathematical Society](https://bookstore.ams.org/mbk-135) en 2020.
 
 ## Thèse et mémoire
 
