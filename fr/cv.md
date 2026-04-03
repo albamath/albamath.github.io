@@ -135,11 +135,11 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
-  - [Seminarium *Układy Dynamiczne*](dynsys.im.uj.edu.pl/archiwum.php),
-    Cracovie, 4/11/2022
-  
   - [*HEGL Community* Seminar](https://www.mathi.uni-heidelberg.de/events/showevent?eventid=2099),
     Heidelberg, 28/11/2022
+  
+  - [Seminarium *Układy Dynamiczne*](dynsys.im.uj.edu.pl/archiwum.php),
+    Cracovie, 4/11/2022
 
   - [Séminaire de *géométrie*](https://www.math.u-bordeaux.fr/imb/seminaire-geometrie?year=2022),
     Bordeaux, 15/04/2022
