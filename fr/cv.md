@@ -443,6 +443,10 @@ publiques de l’œuvre:
 
 ### Exposés à destination du grand public
 
+«Exposé de géométrie, sur la courbure, illustré par des objets et du papier hyperbolique»
+conférence de clôture au congrès MATh.en.JEANS,
+Montpellier, 03/05/2024 
+
 «Diplotores, une famille de tores plats polyèdraux»  
 au congrès MATh.en.JEANS,
 Mulhouse, 26/05/2023
