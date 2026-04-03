@@ -241,6 +241,9 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés à des colloques
   
+  - [*Illustrating Mathematics Reunion/Expansion*](https://icerm.brown.edu/program/topical_workshop/tw-25-imre#schedule_date_2025-08-14),
+    Providence (États-Unis),
+    14/08/2025
     
   - [*2nd Joint Congress of Mathematics*](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10),
     Grenoble,
