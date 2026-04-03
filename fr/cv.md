@@ -135,6 +135,12 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
 
 ## Exposés de séminaire
 
+  - Séminaire [*Illustrating Mathematics*](https://indico.math.cnrs.fr/event/13123/contributions/15449/)
+    Paris, 17/03/2026
+
+  - Séminaire *Papier \& ciseaux*
+    Paris, 04/03/2026
+
   - [Colloquium de l'*IRIMAS*](https://irimas.math.cnrs.fr/seminaire-et-colloquium/#elementor-tab-title-9401),
     Mulhouse, 18/01/2024
 
@@ -244,7 +250,7 @@ l’archive ouverte [HAL](https://hal.archives-ouvertes.fr/).
   - [*Illustrating Mathematics Reunion/Expansion*](https://icerm.brown.edu/program/topical_workshop/tw-25-imre#schedule_date_2025-08-14),
     Providence (États-Unis),
     14/08/2025
-    
+
   - [*2nd Joint Congress of Mathematics*](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10),
     Grenoble,
     22/07/2022
