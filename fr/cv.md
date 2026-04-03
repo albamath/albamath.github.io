@@ -329,13 +329,9 @@ maîtresse de conférences depuis septembre 2020
 Informatique, 2016 – 2017
 
   - cours integré, L2 MIASHS, Calcul formel
-
   - cours integré, M1 MIASHS, Programmation objet 1 – Bases de JAVA
-
   - cours integré, M1 MIASHS, CMS et frameworks accessibles
-
   - cours integré, L2 MIASHS, Mathématiques numériques
-
   - cours integré, M1 MIASHS, Programmation objet 2 – JAVA avancé
 
 [Université Paris-Sud](http://www.u-psud.fr/), Orsay  
