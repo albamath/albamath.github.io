@@ -32,6 +32,11 @@ Ingeniería](http://www.uni.edu.pe), Lima (Pérou), 2002-2006
 
 ## Expérience dans la recherche et l’enseignement supérieur
 
+  - 2025–2026
+    Délégation CNRS au Laboratoire de mathématiques d'Orsay
+    de l’[Université Paris-Saclay](https://www.universite-paris-saclay.fr/),
+    Orsay
+  
   - 2020–…
     Maîtresse de conférences à l’[Université de Lorraine](https://www.univ-lorraine.fr/),
     Nancy – Saint Dié des Vosges
